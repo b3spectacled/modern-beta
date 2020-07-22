@@ -14,13 +14,13 @@
       },
       {
         "type": "minecraft:zombie",
-        "weight": 100,
+        "weight": 95,
         "minCount": 4,
         "maxCount": 4
       },
       {
         "type": "minecraft:zombie_villager",
-        "weight": 25,
+        "weight": 5,
         "minCount": 1,
         "maxCount": 1
       },
@@ -97,6 +97,12 @@
         "weight": 8,
         "minCount": 2,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:llama",
+        "weight": 5,
+        "minCount": 4,
+        "maxCount": 6
       }
     ],
     "ambient": [
@@ -111,8 +117,9 @@
     "water_ambient": [],
     "misc": []
   },
+  "parent": "giant_tree_taiga",
   "spawn_costs": {},
-  "sky_color": 8168447,
+  "sky_color": 8233983,
   "surface_builder": "minecraft:giant_tree_taiga",
   "carvers": {
     "air": [
@@ -152,7 +159,7 @@
     [],
     [
       "minecraft:patch_large_fern",
-      "minecraft:trees_giant",
+      "minecraft:trees_giant_spruce",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga",
       "minecraft:patch_dead_bush",
@@ -172,7 +179,7 @@
     ]
   ],
   "scale": 0.4,
-  "temperature": 0.3,
+  "temperature": 0.25,
   "downfall": 0.8,
   "effects": {
     "mood_sound": {

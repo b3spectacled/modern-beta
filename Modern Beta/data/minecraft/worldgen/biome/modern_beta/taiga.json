@@ -1,5 +1,7 @@
 {
   "starts": [
+    "minecraft:village_taiga",
+    "minecraft:pillager_outpost",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal"
@@ -97,6 +99,12 @@
         "weight": 8,
         "minCount": 2,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:llama",
+        "weight": 5,
+        "minCount": 4,
+        "maxCount": 6
       }
     ],
     "ambient": [
@@ -111,10 +119,9 @@
     "water_ambient": [],
     "misc": []
   },
-  "parent": "giant_tree_taiga",
   "spawn_costs": {},
   "sky_color": 8233983,
-  "surface_builder": "minecraft:giant_tree_taiga",
+  "surface_builder": "modern_beta:grass",
   "carvers": {
     "air": [
       "minecraft:cave",
@@ -127,9 +134,7 @@
       "minecraft:lake_water",
       "minecraft:lake_lava"
     ],
-    [
-      "minecraft:forest_rock"
-    ],
+    [],
     [
       "minecraft:monster_room"
     ],
@@ -152,13 +157,13 @@
     ],
     [],
     [
+	  "modern_beta:pine",
+	  "modern_beta:spruce",
       "minecraft:patch_large_fern",
-      "minecraft:trees_giant_spruce",
       "minecraft:flower_default",
-      "minecraft:patch_grass_taiga",
-      "minecraft:patch_dead_bush",
-      "minecraft:brown_mushroom_giant",
-      "minecraft:red_mushroom_giant",
+      "minecraft:patch_grass_taiga_2",
+      "minecraft:brown_mushroom_taiga",
+      "minecraft:red_mushroom_taiga",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
