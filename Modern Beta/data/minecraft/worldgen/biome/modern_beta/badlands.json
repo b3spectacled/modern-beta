@@ -70,7 +70,7 @@
   },
   "spawn_costs": {},
   "sky_color": 7254527,
-  "surface_builder": "minecraft:badlands",
+  "surface_builder": "minecraft:eroded_badlands",
   "carvers": {
     "air": [
       "minecraft:cave",
