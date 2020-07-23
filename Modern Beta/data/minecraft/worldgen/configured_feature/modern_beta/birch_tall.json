@@ -87,7 +87,7 @@
         "extra_count": 1
       },
       "type": "minecraft:count_extra",
-	  "type": "minecraft:count_extra"
+	  "name": "minecraft:count_extra"
     }
   },
   "type": "minecraft:decorated",
