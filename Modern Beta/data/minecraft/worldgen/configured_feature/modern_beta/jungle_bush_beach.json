@@ -51,9 +51,7 @@
 			  "name": "minecraft:straight_trunk_placer"
 			}
 		  },
-		  "type": "minecraft:tree"
-		},
-        "type": "minecraft:tree",
+		  "type": "minecraft:tree",
 		  "name": "minecraft:tree"
         },
         "decorator": {
