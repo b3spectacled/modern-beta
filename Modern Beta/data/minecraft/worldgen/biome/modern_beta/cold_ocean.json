@@ -96,7 +96,6 @@
     "misc": []
   },
   "spawn_costs": {},
-  "sky_color": 8103167,
   "surface_builder": "modern_beta:grass",
   "carvers": {
     "air": [
@@ -164,6 +163,7 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
+	"sky_color": 8103167,
     "fog_color": 12638463,
     "water_color": 4020182,
     "water_fog_color": 329011

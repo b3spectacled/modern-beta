@@ -31,36 +31,45 @@
               "state": {
                 "Name": "minecraft:grass"
               },
-              "type": "minecraft:simple_state_provider"
+              "type": "minecraft:simple_state_provider",
+			  "name": "minecraft:simple_state_provider"
             },
             "block_placer": {
-              "type": "minecraft:simple_block_placer"
+              "type": "minecraft:simple_block_placer",
+			  "name": "minecraft:simple_block_placer"
             }
           },
-          "name": "minecraft:random_patch"
+          "type": "minecraft:random_patch",
+		  "name": "minecraft:random_patch"
         },
         "decorator": {
           "config": {
             "outer": {
               "config": {},
-              "name": "minecraft:square"
+              "type": "minecraft:square",
+			  "name": "minecraft:square"
             },
             "inner": {
               "config": {},
-              "name": "minecraft:heightmap_spread_double"
+              "type": "minecraft:heightmap_spread_double",
+			  "name": "minecraft:heightmap_spread_double"
             }
           },
-          "name": "minecraft:decorated"
+          "type": "minecraft:decorated",
+		  "name": "minecraft:decorated"
         }
       },
-      "name": "minecraft:decorated"
+      "type": "minecraft:decorated",
+	  "name": "minecraft:decorated"
     },
     "decorator": {
       "config": {
         "count": 1
       },
-      "name": "minecraft:count"
+      "type": "minecraft:count",
+	  "name": "minecraft:count"
     }
   },
+  "type": "minecraft:decorated",
   "name": "minecraft:decorated"
 }

@@ -12,7 +12,8 @@
               "lower_size": 0,
               "upper_size": 0,
               "min_clipped_height": 4,
-              "type": "minecraft:two_layers_feature_size"
+              "type": "minecraft:two_layers_feature_size",
+			  "name": "minecraft:two_layers_feature_size"
             },
             "decorators": [],
             "trunk_provider": {
@@ -22,7 +23,8 @@
                 },
                 "Name": "minecraft:oak_log"
               },
-              "type": "minecraft:simple_state_provider"
+              "type": "minecraft:simple_state_provider",
+			  "name": "minecraft:simple_state_provider"
             },
             "leaves_provider": {
               "state": {
@@ -32,38 +34,46 @@
                 },
                 "Name": "minecraft:oak_leaves"
               },
-              "type": "minecraft:simple_state_provider"
+              "type": "minecraft:simple_state_provider",
+			  "name": "minecraft:simple_state_provider"
             },
             "foliage_placer": {
               "radius": 2,
               "offset": 4,
               "height": 4,
-              "type": "minecraft:fancy_foliage_placer"
+              "type": "minecraft:fancy_foliage_placer",
+			  "name": "minecraft:fancy_foliage_placer"
             },
             "trunk_placer": {
               "base_height": 3,
               "height_rand_a": 11,
               "height_rand_b": 0,
-              "type": "minecraft:fancy_trunk_placer"
+              "type": "minecraft:fancy_trunk_placer",
+			  "name": "minecraft:fancy_trunk_placer"
             }
           },
-          "name": "minecraft:tree"
+          "type": "minecraft:tree",
+		  "name": "minecraft:tree"
         },
         "decorator": {
           "config": {
             "outer": {
               "config": {},
-              "name": "minecraft:square"
+              "type": "minecraft:square",
+			  "name": "minecraft:square"
             },
             "inner": {
               "config": {},
-              "name": "minecraft:heightmap"
+              "type": "minecraft:heightmap",
+			  "name": "minecraft:heightmap"
             }
           },
-          "name": "minecraft:decorated"
+          "type": "minecraft:decorated",
+		  "name": "minecraft:decorated"
         }
       },
-      "name": "minecraft:decorated"
+      "type": "minecraft:decorated",
+	  "name": "minecraft:decorated"
     },
     "decorator": {
       "config": {
@@ -71,8 +81,10 @@
         "extra_chance": 0.33,
         "extra_count": 1
       },
-      "name": "minecraft:count_extra"
+      "type": "minecraft:count_extra",
+	  "name": "minecraft:count_extra"
     }
   },
+  "type": "minecraft:decorated",
   "name": "minecraft:decorated"
 }

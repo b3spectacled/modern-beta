@@ -24,34 +24,43 @@
                         },
                         "Name": "minecraft:tall_grass"
                       },
-                      "type": "minecraft:simple_state_provider"
+                      "type": "minecraft:simple_state_provider",
+					  "name": "minecraft:simple_state_provider"
                     },
                     "block_placer": {
-                      "type": "minecraft:double_plant_placer"
+                      "type": "minecraft:double_plant_placer",
+					  "name": "minecraft:double_plant_placer"
                     }
                   },
-                  "name": "minecraft:random_patch"
+                  "type": "minecraft:random_patch",
+				  "name": "minecraft:random_patch"
                 },
                 "decorator": {
                   "config": {},
-                  "name": "minecraft:spread_32_above"
+                  "type": "minecraft:spread_32_above",
+				  "name": "minecraft:spread_32_above"
                 }
               },
-              "name": "minecraft:decorated"
+              "type": "minecraft:decorated",
+			  "name": "minecraft:decorated"
             },
             "decorator": {
               "config": {},
-              "name": "minecraft:heightmap"
+              "type": "minecraft:heightmap",
+			  "name": "minecraft:heightmap"
             }
           },
-          "name": "minecraft:decorated"
+          "type": "minecraft:decorated",
+		  "name": "minecraft:decorated"
         },
         "decorator": {
           "config": {},
-          "name": "minecraft:square"
+          "type": "minecraft:square",
+		  "name": "minecraft:square"
         }
       },
-      "name": "minecraft:decorated"
+      "type": "minecraft:decorated",
+	  "name": "minecraft:decorated"
     },
     "decorator": {
       "config": {
@@ -59,8 +68,10 @@
         "below_noise": 0,
         "above_noise": 3
       },
-      "name": "minecraft:count_noise"
+      "type": "minecraft:count_noise",
+	  "name": "minecraft:count_noise"
     }
   },
+  "type": "minecraft:decorated",
   "name": "minecraft:decorated"
 }
