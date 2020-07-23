@@ -48,7 +48,7 @@
 			  "height_rand_a": 0,
 			  "height_rand_b": 0,
 			  "type": "minecraft:straight_trunk_placer",
-			  "name": "minecraft:fancy_trunk_placer"
+			  "name": "minecraft:straight_trunk_placer"
 			}
 		  },
 		  "type": "minecraft:tree"
