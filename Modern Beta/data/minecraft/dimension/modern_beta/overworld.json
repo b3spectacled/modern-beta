@@ -150,7 +150,7 @@
 		{
           "biome": "modern_beta:taiga",
           "parameters": {
-            "temperature": -0.625,
+            "temperature": -0.5,
             "humidity": 0.0,
             "altitude": 0.0,
             "weirdness": 0.0,
@@ -160,7 +160,7 @@
         {
           "biome": "modern_beta:snowy_taiga",
           "parameters": {
-            "temperature": -1.0,
+            "temperature": -0.75,
             "humidity": 0,
             "altitude": 0.0,
             "weirdness": 0.0,
@@ -170,7 +170,7 @@
 		{
           "biome": "modern_beta:snowy_tundra",
           "parameters": {
-            "temperature": -1.0,
+            "temperature": -0.75,
             "humidity": -0.5,
             "altitude": 0.0,
             "weirdness": 0.0,
@@ -347,7 +347,6 @@
             "offset": 0.0
           }
         }
-
 	
       ]
     },
