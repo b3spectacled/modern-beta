@@ -100,7 +100,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "surface_builder": "minecraft:swamp",
+  "surface_builder": "modern_beta:grass",
   "carvers": {
     "air": [
       "minecraft:cave",
@@ -132,7 +132,8 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-      "minecraft:disk_clay"
+	  "modern_beta:sand_beach",
+	  "modern_beta:ore_clay"
     ],
     [],
     [
