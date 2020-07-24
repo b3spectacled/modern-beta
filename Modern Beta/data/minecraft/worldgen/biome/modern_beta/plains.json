@@ -145,9 +145,9 @@
     [],
     [
       "modern_beta:patch_tall_grass_2",
+	  "minecraft:patch_grass_forest",
       "minecraft:plain_vegetation",
       "minecraft:flower_plain_decorated",
-      "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
