@@ -376,7 +376,7 @@
           }
         },
 		{
-          "biome": "modern_beta:beach_cold",
+          "biome": "modern_beta:beach_frozen",
           "parameters": {
             "temperature": -1,
             "humidity": 0.25,
