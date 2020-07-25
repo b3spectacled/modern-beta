@@ -164,10 +164,10 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 7907327,
+	"sky_color": 8103167,
     "fog_color": 12638463,
     "water_color": 4566514,
-    "water_fog_color": 329011
+    "water_fog_color": 267827
   },
   "precipitation": "rain",
   "category": "beach",
