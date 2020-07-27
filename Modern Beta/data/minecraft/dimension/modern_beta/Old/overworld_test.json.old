@@ -5,14 +5,14 @@
     "seed": 1772835215,
     "biome_source": {
 	  "temperature_noise": {
-        "firstOctave": -8,
+        "firstOctave": -7,
         "amplitudes": [
           1.0,
           1.0
         ]
       },
 	  "humidity_noise": {
-        "firstOctave": -7,
+        "firstOctave": -8,
         "amplitudes": [
           1.0,
           1.0
@@ -40,7 +40,7 @@
           "parameters": {
             "temperature": -0.8,
             "humidity": 1.0,
-            "altitude": -0.6,
+            "altitude": -0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -50,7 +50,7 @@
           "parameters": {
             "temperature": -0.4,
             "humidity": 1.0,
-            "altitude": -0.6,
+            "altitude": -0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -60,7 +60,7 @@
           "parameters": {
             "temperature": 0.0,
             "humidity": 1.0,
-            "altitude": -0.6,
+            "altitude": -0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -70,7 +70,7 @@
           "parameters": {
             "temperature": 0.4,
             "humidity": 1.0,
-            "altitude": -0.6,
+            "altitude": -0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -80,7 +80,7 @@
           "parameters": {
             "temperature": 0.8,
             "humidity": 1.0,
-            "altitude": -0.6,
+            "altitude": -0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -89,7 +89,7 @@
           "biome": "modern_beta:frozen_ocean",
           "parameters": {
             "temperature": -0.8,
-            "humidity": 0.375,
+            "humidity": 0.875,
             "altitude": 0.0,
             "weirdness": 0.0,
             "offset": 0.0
@@ -99,7 +99,7 @@
           "biome": "modern_beta:cold_ocean",
           "parameters": {
             "temperature": -0.4,
-            "humidity": 0.375,
+            "humidity": 0.875,
             "altitude": 0.0,
             "weirdness": 0.0,
             "offset": 0.0
@@ -109,7 +109,7 @@
           "biome": "modern_beta:ocean",
           "parameters": {
             "temperature": 0.0,
-            "humidity": 0.375,
+            "humidity": 0.875,
             "altitude": 0.0,
             "weirdness": 0.0,
             "offset": 0.0
@@ -119,7 +119,7 @@
           "biome": "modern_beta:lukewarm_ocean",
           "parameters": {
             "temperature": 0.4,
-            "humidity": 0.375,
+            "humidity": 0.875,
             "altitude": 0.0,
             "weirdness": 0.0,
             "offset": 0.0
@@ -129,7 +129,7 @@
           "biome": "modern_beta:warm_ocean",
           "parameters": {
             "temperature": 0.8,
-            "humidity": 0.375,
+            "humidity": 0.875,
             "altitude": 0.0,
             "weirdness": 0.0,
             "offset": 0.0
@@ -139,8 +139,8 @@
           "biome": "modern_beta:beach_frozen",
           "parameters": {
             "temperature": -0.8,
-            "humidity": 0.25,
-            "altitude": 0.2,
+            "humidity":0.75,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -149,8 +149,8 @@
           "biome": "modern_beta:beach_cold",
           "parameters": {
             "temperature": -0.4,
-            "humidity": 0.25,
-            "altitude": 0.2,
+            "humidity":0.75,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -159,8 +159,8 @@
           "biome": "modern_beta:beach",
           "parameters": {
             "temperature": 0.0,
-            "humidity": 0.25,
-            "altitude": 0.2,
+            "humidity":0.75,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -169,8 +169,8 @@
           "biome": "modern_beta:beach_warm",
           "parameters": {
             "temperature": 0.4,
-            "humidity": 0.25,
-            "altitude": 0.2,
+            "humidity":0.75,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -179,28 +179,28 @@
           "biome": "modern_beta:beach_warm",
           "parameters": {
             "temperature": 0.8,
+            "humidity":0.75,
+            "altitude": 0.4,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+		{
+          "biome": "modern_beta:snowy_tundra",
+          "parameters": {
+            "temperature": -0.8,
+            "humidity": 0.5,
+            "altitude": 0.8,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+		{
+          "biome": "modern_beta:snowy_tundra",
+          "parameters": {
+            "temperature": -0.8,
             "humidity": 0.25,
-            "altitude": 0.2,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-		{
-          "biome": "modern_beta:snowy_tundra",
-          "parameters": {
-            "temperature": -0.8,
-            "humidity": 0.0,
-            "altitude": 0.6,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-		{
-          "biome": "modern_beta:snowy_tundra",
-          "parameters": {
-            "temperature": -0.8,
-            "humidity": -0.25,
-            "altitude": 0.6,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -209,8 +209,8 @@
           "biome": "modern_beta:snowy_tundra",
           "parameters": {
             "temperature": -0.75,
-            "humidity": -0.5,
-            "altitude": 0.6,
+            "humidity": 0.0,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -219,8 +219,8 @@
           "biome": "modern_beta:ice_spikes",
           "parameters": {
             "temperature": -0.8,
-            "humidity": -1.0,
-            "altitude": 0.6,
+            "humidity": -0.5,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.2
           }
@@ -229,8 +229,8 @@
           "biome": "modern_beta:snowy_taiga",
           "parameters": {
             "temperature": -0.6,
-            "humidity": 0,
-            "altitude": 0.6,
+            "humidity": 0.5,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -239,8 +239,8 @@
           "biome": "modern_beta:taiga",
           "parameters": {
             "temperature": -0.5,
-            "humidity": 0.0,
-            "altitude": 0.6,
+            "humidity": 0.5,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -249,8 +249,8 @@
           "biome": "modern_beta:giant_tree_taiga",
           "parameters": {
             "temperature": -0.5,
-            "humidity": -0.125,
-            "altitude": 0.6,
+            "humidity": 0.375,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -259,8 +259,8 @@
           "biome": "modern_beta:giant_spruce_taiga",
           "parameters": {
             "temperature": -0.6,
-            "humidity": -0.25,
-            "altitude": 0.6,
+            "humidity": 0.25,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -269,8 +269,8 @@
           "biome": "modern_beta:forest",
           "parameters": {
             "temperature": -0.25,
-            "humidity": 0,
-            "altitude": 0.6,
+            "humidity": 0.5,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -279,8 +279,8 @@
           "biome": "modern_beta:forest",
           "parameters": {
             "temperature": 0,
-            "humidity": -0.125,
-            "altitude": 0.6,
+            "humidity": 0.375,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -289,28 +289,28 @@
           "biome": "modern_beta:birch_forest",
           "parameters": {
             "temperature": -0.25,
+            "humidity": 0.25,
+            "altitude": 0.8,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+		{
+          "biome": "modern_beta:birch_forest",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0.125,
+            "altitude": 0.8,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+		{
+          "biome": "modern_beta:savanna",
+          "parameters": {
+            "temperature": 0,
             "humidity": -0.25,
-            "altitude": 0.6,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-		{
-          "biome": "modern_beta:birch_forest",
-          "parameters": {
-            "temperature": 0,
-            "humidity": -0.375,
-            "altitude": 0.6,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-		{
-          "biome": "modern_beta:savanna",
-          "parameters": {
-            "temperature": 0,
-            "humidity": -0.75,
-            "altitude": 0.6,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -319,8 +319,8 @@
           "biome": "modern_beta:savanna",
           "parameters": {
             "temperature": -0.25,
-            "humidity": -0.625,
-            "altitude": 0.6,
+            "humidity": -0.125,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -329,8 +329,8 @@
           "biome": "modern_beta:savanna",
           "parameters": {
             "temperature": 0.25,
-            "humidity": -0.875,
-            "altitude": 0.6,
+            "humidity": -0.375,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -339,8 +339,8 @@
           "biome": "modern_beta:dark_forest",
           "parameters": {
             "temperature": 0.25,
-            "humidity": 0.0,
-            "altitude": 0.6,
+            "humidity": 0.5,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -349,8 +349,8 @@
           "biome": "modern_beta:flower_forest",
           "parameters": {
             "temperature": 0.25,
-            "humidity": -0.25,
-            "altitude": 0.6,
+            "humidity":  0.25,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -359,8 +359,8 @@
           "biome": "modern_beta:swamp",
           "parameters": {
             "temperature": 0.0,
-            "humidity": 0.0625,
-            "altitude": 0.6,
+            "humidity": 0.5625,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -369,8 +369,8 @@
           "biome": "modern_beta:bamboo_jungle",
           "parameters": {
             "temperature": 0.625,
-            "humidity": -0.125,
-            "altitude": 0.6,
+            "humidity": 0.375,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -379,8 +379,8 @@
           "biome": "modern_beta:jungle",
           "parameters": {
             "temperature": 0.8,
-            "humidity": -0.125,
-            "altitude": 0.6,
+            "humidity": 0.375,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -389,8 +389,8 @@
           "biome": "modern_beta:sunflower_plains",
           "parameters": {
             "temperature": 0.25,
-            "humidity": -0.5,
-            "altitude": 0.6,
+            "humidity": 0.0,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -399,8 +399,8 @@
           "biome": "modern_beta:plains",
           "parameters": {
             "temperature": 0.625,
-            "humidity": -0.5,
-            "altitude": 0.6,
+            "humidity": 0.0,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -409,8 +409,8 @@
           "biome": "modern_beta:plains",
           "parameters": {
             "temperature": 0.8,
-            "humidity": -0.5,
-            "altitude": 0.6,
+            "humidity": 0.0,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -419,8 +419,8 @@
           "biome": "modern_beta:badlands",
           "parameters": {
             "temperature": 0.625,
-            "humidity": -0.625,
-            "altitude": 0.6,
+            "humidity": -0.125,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -429,8 +429,8 @@
           "biome": "modern_beta:desert",
           "parameters": {
             "temperature": 0.8,
-            "humidity": -0.75,
-            "altitude": 0.6,
+            "humidity": -0.25,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -440,7 +440,7 @@
           "parameters": {
             "temperature": 1.0,
             "humidity": 0.7,
-            "altitude": 0.6,
+            "altitude": 0.8,
             "weirdness": 0.0,
             "offset": 0.4
           }
