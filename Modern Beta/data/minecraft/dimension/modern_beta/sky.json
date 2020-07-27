@@ -206,16 +206,6 @@
           }
         },
 		{
-          "biome": "modern_beta:swamp",
-          "parameters": {
-            "temperature": 0.0,
-            "humidity": 0.0625,
-            "altitude": 0.0,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-		{
           "biome": "modern_beta:bamboo_jungle",
           "parameters": {
             "temperature": 0.625,
@@ -260,16 +250,6 @@
           "parameters": {
             "temperature": 0.8,
             "humidity": -0.5,
-            "altitude": 0.0,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-		{
-          "biome": "modern_beta:badlands",
-          "parameters": {
-            "temperature": 0.625,
-            "humidity": -0.625,
             "altitude": 0.0,
             "weirdness": 0.0,
             "offset": 0.0

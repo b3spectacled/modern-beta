@@ -116,7 +116,7 @@
     "size_vertical": 2,
     "height": 256,
     "sampling": {
-      "xz_scale": 0.9999999814507745,
+      "xz_scale": 0.2,
       "y_scale": 0.9999999814507745,
       "xz_factor": 80.0,
       "y_factor": 160.0
