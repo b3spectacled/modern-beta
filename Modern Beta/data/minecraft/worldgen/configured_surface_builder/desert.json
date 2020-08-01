@@ -10,5 +10,5 @@
       "Name": "minecraft:gravel"
     }
   },
-  "type": "minecraft:nether"
+  "name": "minecraft:default"
 }
