@@ -43,8 +43,8 @@
         "amplitudes": [
           1.0,
           1.0,
-		  1.0,
-		  1.0,
+          1.0,
+          1.0,
           1.0
         ]
       },
@@ -63,7 +63,7 @@
           "parameters": {
             "temperature": -0.8,
             "humidity": 1.0,
-            "altitude": -0.8,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -73,7 +73,7 @@
           "parameters": {
             "temperature": -0.4,
             "humidity": 1.0,
-            "altitude": -0.8,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -83,7 +83,7 @@
           "parameters": {
             "temperature": 0.0,
             "humidity": 1.0,
-            "altitude": -0.8,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -93,7 +93,7 @@
           "parameters": {
             "temperature": 0.4,
             "humidity": 1.0,
-            "altitude": -0.8,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
@@ -103,7 +103,7 @@
           "parameters": {
             "temperature": 0.8,
             "humidity": 1.0,
-            "altitude": -0.8,
+            "altitude": 0.4,
             "weirdness": 0.0,
             "offset": 0.0
           }
