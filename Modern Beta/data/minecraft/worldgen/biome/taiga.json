@@ -177,7 +177,7 @@
     ]
   ],
   "scale": 0.4,
-  "temperature": 0.25,
+  "temperature": 0.2,
   "downfall": 0.8,
   "effects": {
     "mood_sound": {
