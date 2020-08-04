@@ -184,7 +184,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.4,
+  "scale": 0.5,
   "temperature": 0.2,
   "downfall": 0.8,
   "effects": {
@@ -201,5 +201,5 @@
   },
   "precipitation": "rain",
   "category": "taiga",
-  "depth": 0.3
+  "depth": 0.37
 }
