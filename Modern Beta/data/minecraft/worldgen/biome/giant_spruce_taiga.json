@@ -113,7 +113,14 @@
         "maxCount": 8
       }
     ],
-    "water_creature": [],
+    "water_creature": [
+      {
+        "type": "minecraft:squid",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
     "water_ambient": [],
     "misc": []
   },
@@ -179,7 +186,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.5,
+  "scale": 0.4,
   "temperature": 0.2,
   "downfall": 0.8,
   "effects": {
