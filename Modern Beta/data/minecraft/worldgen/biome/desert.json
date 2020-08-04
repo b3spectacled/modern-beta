@@ -138,7 +138,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.4,
+  "scale": 0.5,
   "temperature": 2.0,
   "downfall": 0.0,
   "effects": {
@@ -155,5 +155,5 @@
   },
   "precipitation": "none",
   "category": "desert",
-  "depth": 0.4
+  "depth": 0.3
 }

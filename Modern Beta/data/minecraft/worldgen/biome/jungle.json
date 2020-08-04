@@ -173,7 +173,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.4,
+  "scale": 0.5,
   "temperature": 0.95,
   "downfall": 0.9,
   "effects": {
@@ -190,5 +190,5 @@
   },
   "precipitation": "rain",
   "category": "jungle",
-  "depth": 0.4
+  "depth": 0.3
 }
