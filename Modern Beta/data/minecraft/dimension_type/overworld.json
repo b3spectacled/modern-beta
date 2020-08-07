@@ -1,4 +1,5 @@
 {
+  "effects": "minecraft:overworld",
   "has_raids": true,
   "logical_height": 256,
   "infiniburn": "minecraft:infiniburn_overworld",
