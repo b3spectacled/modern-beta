@@ -173,5 +173,6 @@
   },
   "precipitation": "snow",
   "category": "ocean",
+  "temperature_modifier": "frozen",
   "depth": -1.0
 }
