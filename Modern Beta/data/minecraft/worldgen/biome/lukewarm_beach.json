@@ -155,9 +155,7 @@
       "minecraft:spring_lava",
       "minecraft:patch_melon",
       "minecraft:vines",
-      "minecraft:warm_ocean_vegetation",
-      "minecraft:seagrass_warm",
-      "minecraft:sea_pickle"
+      "minecraft:seagrass_normal"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -175,8 +173,8 @@
     },
 	"sky_color": 8103167,
     "fog_color": 12638463,
-    "water_color": 4445678,
-    "water_fog_color": 270131
+    "water_color": 4566514,
+    "water_fog_color": 267827
   },
   "precipitation": "rain",
   "category": "beach",

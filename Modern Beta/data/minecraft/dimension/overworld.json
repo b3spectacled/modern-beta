@@ -2,7 +2,7 @@
   "type": "minecraft:overworld",
   "generator": {
     "type": "minecraft:noise",
-    "seed": 1234,
+    "seed": 987696796789,
     "biome_source": {
 	  "temperature_noise": {
         "firstOctave": -9,
@@ -56,7 +56,7 @@
         ]
       },
       "type": "minecraft:multi_noise",
-      "seed": 1234,
+      "seed": 987696796789,
       "biomes": [
 		{
           "biome": "minecraft:deep_frozen_ocean",
@@ -189,7 +189,7 @@
           }
         },
 		{
-          "biome": "minecraft:warm_beach",
+          "biome": "minecraft:lukewarm_beach",
           "parameters": {
             "temperature": 0.4,
             "humidity": 0.25,
@@ -199,7 +199,7 @@
           }
         },
 		{
-          "biome": "minecraft:reef_beach",
+          "biome": "minecraft:warm_beach",
           "parameters": {
             "temperature": 0.8,
             "humidity": 0.25,
