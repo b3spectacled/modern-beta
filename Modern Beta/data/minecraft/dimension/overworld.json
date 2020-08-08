@@ -199,7 +199,7 @@
           }
         },
 		{
-          "biome": "minecraft:warm_beach",
+          "biome": "minecraft:reef_beach",
           "parameters": {
             "temperature": 0.8,
             "humidity": 0.25,
