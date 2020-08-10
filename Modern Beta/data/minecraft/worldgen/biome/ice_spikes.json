@@ -149,7 +149,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.15000002,
+  "scale": 0.5,
   "temperature": 0.0,
   "downfall": 0.5,
   "effects": {
@@ -166,5 +166,5 @@
   },
   "precipitation": "snow",
   "category": "icy",
-  "depth": 0.225
+  "depth": 0.37
 }
