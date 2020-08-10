@@ -173,6 +173,8 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
+    "grass_color": 7127638,
+    "foliage_color": 4829486,
     "sky_color": 7907327,
     "fog_color": 12638463,
     "water_color": 6388580,
