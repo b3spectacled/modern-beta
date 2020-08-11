@@ -143,9 +143,7 @@
     ],
     [],
     [
-	  "minecraft:oak_forest",
-	  "minecraft:birch",
-	  "minecraft:fancy_oak",
+	  "minecraft:forest_flower_trees",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",
