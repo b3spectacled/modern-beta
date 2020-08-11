@@ -149,7 +149,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.5,
+  "scale": 0.3,
   "temperature": 0.0,
   "downfall": 0.5,
   "effects": {
