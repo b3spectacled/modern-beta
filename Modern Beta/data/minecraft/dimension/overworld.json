@@ -379,7 +379,7 @@
           }
         },
 		{
-          "biome": "minecraft:forest",
+          "biome": "minecraft:seasonal_forest",
           "parameters": {
             "temperature": 0.5,
             "humidity": -0.375,
@@ -389,7 +389,7 @@
           }
         },
 		{
-          "biome": "minecraft:forest",
+          "biome": "minecraft:seasonal_forest",
           "parameters": {
             "temperature": 0.75,
             "humidity": -0.375,
