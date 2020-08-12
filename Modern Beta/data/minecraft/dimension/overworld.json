@@ -369,7 +369,7 @@
           }
         },
 		{
-          "biome": "minecraft:dark_forest",
+          "biome": "minecraft:forest",
           "parameters": {
             "temperature": 0.125,
             "humidity": 0.0,
@@ -398,6 +398,16 @@
             "offset": 0.0
           }
         },
+        {
+          "biome": "minecraft:seasonal_forest",
+          "parameters": {
+            "temperature": 0.875,
+            "humidity": -0.375,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
 		{
           "biome": "minecraft:swamp",
           "parameters": {
@@ -409,7 +419,7 @@
           }
         },
 		{
-          "biome": "minecraft:jungle",
+          "biome": "minecraft:dark_forest",
           "parameters": {
             "temperature": 0.5,
             "humidity": 0.0,
@@ -419,9 +429,19 @@
           }
         },
 		{
-          "biome": "minecraft:bamboo_jungle",
+          "biome": "minecraft:jungle",
           "parameters": {
             "temperature": 0.75,
+            "humidity": 0.0,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "minecraft:bamboo_jungle",
+          "parameters": {
+            "temperature": 0.875,
             "humidity": 0.0,
             "altitude": 0.6,
             "weirdness": 0.0,
@@ -458,6 +478,16 @@
             "offset": 0.0
           }
         },
+        {
+          "biome": "minecraft:plains",
+          "parameters": {
+            "temperature": 0.875,
+            "humidity": -0.5,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
 		{
           "biome": "minecraft:desert",
           "parameters": {
@@ -478,10 +508,30 @@
             "offset": 0.0
           }
         },	
+        {
+          "biome": "minecraft:desert",
+          "parameters": {
+            "temperature": 0.875,
+            "humidity": -0.75,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },	
 		{
           "biome": "minecraft:badlands",
           "parameters": {
             "temperature": 0.75,
+            "humidity": -0.875,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.2
+          }
+        },
+        {
+          "biome": "minecraft:badlands_plateau",
+          "parameters": {
+            "temperature": 0.875,
             "humidity": -0.875,
             "altitude": 0.6,
             "weirdness": 0.0,
