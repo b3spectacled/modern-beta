@@ -329,7 +329,7 @@
           }
         },
 		{
-          "biome": "minecraft:birch_forest",
+          "biome": "minecraft:shrubland",
           "parameters": {
             "temperature": 0,
             "humidity": -0.5,
