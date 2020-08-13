@@ -138,6 +138,8 @@
     [],
     [
 	  "minecraft:oak_shrubland",
+      "minecraft:bush_shrubland",
+      "minecraft:patch_tall_grass_2",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",
