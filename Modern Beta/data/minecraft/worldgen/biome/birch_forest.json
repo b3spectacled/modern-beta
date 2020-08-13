@@ -1,6 +1,5 @@
 {
   "starts": [
-	"minecraft:village_plains",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal"
