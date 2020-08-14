@@ -79,9 +79,9 @@
     },
     "decorator": {
       "config": {
-        "count": 1,
+        "count": 2,
         "extra_chance": 0.2,
-        "extra_count": 6
+        "extra_count": 4
       },
       "type": "minecraft:count_extra",
 	  "name": "minecraft:count_extra"

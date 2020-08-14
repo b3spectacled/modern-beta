@@ -163,8 +163,7 @@
     ],
     [],
     [
-	  "minecraft:pine",
-	  "minecraft:spruce",
+	  "minecraft:taiga_vegetation",
       "minecraft:patch_large_fern",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga_2",
