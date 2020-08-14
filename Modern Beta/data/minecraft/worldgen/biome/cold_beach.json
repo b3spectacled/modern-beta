@@ -144,8 +144,7 @@
     ],
     [],
     [
-	  "minecraft:pine_beach",
-	  "minecraft:spruce_beach",
+	  "minecraft:taiga_vegetation_beach",
 	  "minecraft:patch_grass_forest",
       "minecraft:flower_default",
       "minecraft:brown_mushroom_normal",

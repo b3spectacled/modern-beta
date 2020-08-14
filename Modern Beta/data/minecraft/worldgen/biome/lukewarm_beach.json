@@ -144,8 +144,7 @@
     ],
     [],
     [
-	  "minecraft:oak_beach",
-	  "minecraft:fancy_oak_beach",
+      "minecraft:forest_vegetation_beach",
 	  "minecraft:patch_grass_forest",
       "minecraft:flower_default",
       "minecraft:brown_mushroom_normal",

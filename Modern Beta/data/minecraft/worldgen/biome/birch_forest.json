@@ -137,8 +137,7 @@
     ],
     [],
     [
-	  "minecraft:birch_birch_forest",
-	  "minecraft:birch_tall",
+	  "minecraft:birch_vegetation",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",

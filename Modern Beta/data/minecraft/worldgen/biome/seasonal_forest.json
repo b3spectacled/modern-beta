@@ -137,8 +137,7 @@
     ],
     [],
     [
-      "minecraft:fancy_oak_seasonal",
-	  "minecraft:oak_seasonal",
+      "minecraft:forest_vegetation_seasonal",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",
