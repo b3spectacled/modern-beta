@@ -53,6 +53,12 @@
         "weight": 5,
         "minCount": 1,
         "maxCount": 1
+      },
+      {
+        "type": "minecraft:ocelot",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 3
       }
     ],
     "creature": [
@@ -79,6 +85,18 @@
         "weight": 8,
         "minCount": 4,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:chicken",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:parrot",
+        "weight": 40,
+        "minCount": 1,
+        "maxCount": 2
       }
     ],
     "ambient": [
@@ -137,25 +155,25 @@
     ],
     [],
     [
-      "minecraft:forest_vegetation_seasonal",
-      "minecraft:forest_flower_vegetation",
-      "minecraft:flower_default",
-      "minecraft:patch_grass_forest",
+      "minecraft:rainforest_vegetation",
+      "minecraft:flower_warm",
+      "minecraft:patch_grass_rainforest",
+      "minecraft:bush_rainforest",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "minecraft:seagrass_normal"
+	  "minecraft:seagrass_river"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
   "scale": 0.5,
-  "temperature": 0.8,
-  "downfall": 0.6,
+  "temperature": 0.85,
+  "downfall": 0.8,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -163,12 +181,12 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 7972607,
+	"sky_color": 7254527,
     "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_color": 4566514,
+    "water_fog_color": 267827
   },
   "precipitation": "rain",
-  "category": "forest",
-  "depth": 0.37 
+  "category": "jungle",
+  "depth": 0.37
 }

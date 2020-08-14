@@ -1089,16 +1089,6 @@
           }
         },
         {
-          "biome": "minecraft:jungle",
-          "parameters": {
-            "temperature": 0.8,
-            "humidity": -0.2,
-            "altitude": 0.6,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-        {
           "biome": "minecraft:bamboo_jungle",
           "parameters": {
             "temperature": 1.0,
@@ -1109,7 +1099,17 @@
           }
         },
         {
-          "biome": "minecraft:bamboo_jungle",
+          "biome": "minecraft:rainforest",
+          "parameters": {
+            "temperature": 0.8,
+            "humidity": -0.2,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "minecraft:rainforest",
           "parameters": {
             "temperature": 1.0,
             "humidity": -0.2,
