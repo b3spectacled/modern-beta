@@ -669,7 +669,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_tundra",
+          "biome": "minecraft:ice_desert",
           "parameters": {
             "temperature": -0.6,
             "humidity": -1.0,
