@@ -119,7 +119,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "surface_builder": "minecraft:grass",
+  "surface_builder": "minecraft:beach",
   "carvers": {
     "air": [
       "minecraft:cave",
@@ -172,8 +172,8 @@
     ]
   ],
   "scale": 0.5,
-  "temperature": 0.85,
-  "downfall": 0.8,
+  "temperature": 0.9,
+  "downfall": 0.85,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",

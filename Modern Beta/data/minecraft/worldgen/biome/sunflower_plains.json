@@ -114,7 +114,7 @@
   },
   "parent": "plains",
   "spawn_costs": {},
-  "surface_builder": "minecraft:grass",
+  "surface_builder": "minecraft:beach",
   "carvers": {
     "air": [
       "minecraft:cave",
