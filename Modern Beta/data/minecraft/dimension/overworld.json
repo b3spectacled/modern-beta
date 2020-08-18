@@ -1225,7 +1225,7 @@
             "humidity": -1.0,
             "altitude": 0.6,
             "weirdness": 0.0,
-            "offset": 0.2
+            "offset": 0.0
           }
         },
         {
@@ -1235,7 +1235,7 @@
             "humidity": -1.0,
             "altitude": 0.6,
             "weirdness": 0.0,
-            "offset": 0.2
+            "offset": 0.0
           }
         },
 		{
