@@ -1,9 +1,8 @@
 {
   "starts": [
-    "minecraft:village_plains",
+    "minecraft:swamp_hut",
     "minecraft:mineshaft",
-    "minecraft:stronghold",
-    "minecraft:ruined_portal"
+    "minecraft:ruined_portal_swamp"
   ],
   "spawners": {
     "monster": [
@@ -52,6 +51,12 @@
       {
         "type": "minecraft:witch",
         "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 1,
         "minCount": 1,
         "maxCount": 1
       }
@@ -117,6 +122,7 @@
     ],
     [],
     [
+      "minecraft:fossil",
       "minecraft:monster_room"
     ],
     [],
@@ -138,26 +144,28 @@
     ],
     [],
     [
-	  "minecraft:shrubland_vegetation",
-      "minecraft:bush_shrubland",
-      "minecraft:patch_tall_grass_2",
-      "minecraft:flower_plain_decorated",
-      "minecraft:patch_grass_forest",
+      "minecraft:marsh_vegetation",
+      "minecraft:flower_swamp",
+      "minecraft:patch_grass",
+      "minecraft:patch_dead_bush",
+      "minecraft:patch_waterlilly",
+      "minecraft:brown_mushroom_swamp",
+      "minecraft:red_mushroom_swamp",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
+      "minecraft:patch_sugar_cane_swamp",
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-	  "minecraft:seagrass_normal"
+      "minecraft:seagrass_swamp"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.4,
-  "temperature": 0.7,
-  "downfall": 0.4,
+  "scale": 0.5,
+  "temperature": 0.6,
+  "downfall": 0.75,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -165,12 +173,12 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 7972607,
+    "sky_color": 7907327,
     "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_color": 6388580,
+    "water_fog_color": 2302743
   },
   "precipitation": "rain",
-  "category": "forest",
-  "depth": 0.2
+  "category": "swamp",
+  "depth": 0.37
 }

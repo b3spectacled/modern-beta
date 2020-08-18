@@ -759,7 +759,7 @@
           }
         },
         {
-          "biome": "minecraft:forest",
+          "biome": "minecraft:marsh",
           "parameters": {
             "temperature": -0.4,
             "humidity": 0.0,
@@ -769,9 +769,39 @@
           }
         },
 		{
-          "biome": "minecraft:forest",
+          "biome": "minecraft:swamp",
           "parameters": {
             "temperature": -0.2,
+            "humidity": 0.0,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+		{
+          "biome": "minecraft:swamp",
+          "parameters": {
+            "temperature": -0.2,
+            "humidity": -0.2,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "minecraft:forest",
+          "parameters": {
+            "temperature": 0.0,
+            "humidity": 0.0,
+            "altitude": 0.6,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "minecraft:forest",
+          "parameters": {
+            "temperature": 0.2,
             "humidity": 0.0,
             "altitude": 0.6,
             "weirdness": 0.0,
@@ -798,10 +828,10 @@
             "offset": 0.0
           }
         },
-		{
+        {
           "biome": "minecraft:forest",
           "parameters": {
-            "temperature": -0.2,
+            "temperature": 0.2,
             "humidity": -0.2,
             "altitude": 0.6,
             "weirdness": 0.0,
@@ -979,7 +1009,7 @@
           }
         },
         {
-          "biome": "minecraft:savanna",
+          "biome": "minecraft:savanna_grassland",
           "parameters": {
             "temperature": -0.4,
             "humidity": -1.0,
@@ -989,7 +1019,7 @@
           }
         },
 		{
-          "biome": "minecraft:savanna",
+          "biome": "minecraft:savanna_grassland",
           "parameters": {
             "temperature": -0.2,
             "humidity": -1.0,
@@ -999,7 +1029,7 @@
           }
         },
         {
-          "biome": "minecraft:savanna",
+          "biome": "minecraft:savanna_grassland",
           "parameters": {
             "temperature": 0.0,
             "humidity": -1.0,
@@ -1009,7 +1039,7 @@
           }
         },
 		{
-          "biome": "minecraft:savanna",
+          "biome": "minecraft:savanna_grassland",
           "parameters": {
             "temperature": 0.2,
             "humidity": -1.0,
@@ -1019,40 +1049,10 @@
           }
         },
         {
-          "biome": "minecraft:savanna",
+          "biome": "minecraft:savanna_grassland",
           "parameters": {
             "temperature": 0.4,
             "humidity": -1.0,
-            "altitude": 0.6,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-		{
-          "biome": "minecraft:swamp",
-          "parameters": {
-            "temperature": 0.0,
-            "humidity": 0.0,
-            "altitude": 0.6,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-        {
-          "biome": "minecraft:swamp",
-          "parameters": {
-            "temperature": 0.2,
-            "humidity": 0.0,
-            "altitude": 0.6,
-            "weirdness": 0.0,
-            "offset": 0.0
-          }
-        },
-        {
-          "biome": "minecraft:swamp",
-          "parameters": {
-            "temperature": 0.2,
-            "humidity": -0.2,
             "altitude": 0.6,
             "weirdness": 0.0,
             "offset": 0.0

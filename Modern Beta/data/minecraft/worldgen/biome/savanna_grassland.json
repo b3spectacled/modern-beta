@@ -1,6 +1,7 @@
 {
   "starts": [
-    "minecraft:village_plains",
+    "minecraft:village_savanna",
+    "minecraft:pillager_outpost",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal"
@@ -80,6 +81,18 @@
         "weight": 8,
         "minCount": 4,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:horse",
+        "weight": 1,
+        "minCount": 2,
+        "maxCount": 6
+      },
+      {
+        "type": "minecraft:donkey",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
       }
     ],
     "ambient": [
@@ -138,11 +151,9 @@
     ],
     [],
     [
-	  "minecraft:shrubland_vegetation",
-      "minecraft:bush_shrubland",
-      "minecraft:patch_tall_grass_2",
-      "minecraft:flower_plain_decorated",
-      "minecraft:patch_grass_forest",
+	  "minecraft:patch_grass",
+      "minecraft:savanna_grassland_vegetation",
+      "minecraft:flower_warm",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
@@ -155,9 +166,9 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.4,
-  "temperature": 0.7,
-  "downfall": 0.4,
+  "scale": 0.3,
+  "temperature": 1.2,
+  "downfall": 0.0,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -165,12 +176,14 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 7972607,
+	"grass_color": 11581285,
+	"foliage_color": 10265661,
+	"sky_color": 7711487,
     "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011
   },
-  "precipitation": "rain",
-  "category": "forest",
+  "precipitation": "none",
+  "category": "savanna",
   "depth": 0.2
 }
