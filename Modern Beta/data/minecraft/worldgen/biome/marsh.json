@@ -107,7 +107,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "surface_builder": "minecraft:beach",
+  "surface_builder": "minecraft:swamp",
   "carvers": {
     "air": [
       "minecraft:cave",
@@ -163,7 +163,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.5,
+  "scale": 0.05,
   "temperature": 0.6,
   "downfall": 0.75,
   "effects": {
@@ -180,5 +180,5 @@
   },
   "precipitation": "rain",
   "category": "swamp",
-  "depth": 0.37
+  "depth": 0.0
 }
