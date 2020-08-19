@@ -1,6 +1,5 @@
 {
   "starts": [
-    "minecraft:swamp_hut",
     "minecraft:mineshaft",
     "minecraft:ruined_portal_swamp"
   ],
@@ -144,6 +143,7 @@
     ],
     [],
     [
+      "minecraft:patch_grass_block",
       "minecraft:marsh_vegetation",
       "minecraft:flower_swamp",
       "minecraft:patch_grass",
@@ -153,7 +153,7 @@
       "minecraft:red_mushroom_swamp",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane_swamp",
+      "minecraft:patch_sugar_cane_marsh",
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",

@@ -144,6 +144,7 @@
     ],
     [],
     [
+      "minecraft:patch_grass_block",
       "minecraft:swamp_tree",
       "minecraft:flower_swamp",
       "minecraft:patch_grass_normal",
