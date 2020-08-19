@@ -212,6 +212,14 @@
         }
       }
     },
+    "minecraft:marsh": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "biome": "minecraft:marsh"
+        }
+      }
+    },
     "minecraft:mushroom_fields": {
       "trigger": "minecraft:location",
       "conditions": {
@@ -413,6 +421,9 @@
     ],
     [
       "minecraft:lukewarm_ocean"
+    ],
+    [
+      "minecraft:marsh"
     ],
     [
       "minecraft:mushroom_fields"
