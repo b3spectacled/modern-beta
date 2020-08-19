@@ -108,7 +108,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "surface_builder": "minecraft:grass",
+  "surface_builder": "minecraft:beach",
   "carvers": {
     "air": [
       "minecraft:cave",
@@ -125,9 +125,7 @@
     [
       "minecraft:monster_room"
     ],
-    [
-      
-    ],
+    [],
     [],
     [
       "minecraft:ore_dirt",
@@ -141,8 +139,8 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-      "minecraft:ore_clay",
 	  "minecraft:sand_beach",
+	  "minecraft:ore_clay",
       "minecraft:patch_sandstone",
       "minecraft:patch_sandstone_air",
       "minecraft:patch_sandstone_extra",
@@ -152,7 +150,7 @@
     ],
     [],
     [
-	  "minecraft:forest_vegetation_beach",
+	  "minecraft:taiga_vegetation_beach",
 	  "minecraft:patch_grass_forest",
       "minecraft:flower_default",
       "minecraft:brown_mushroom_normal",
@@ -161,15 +159,14 @@
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-	  "minecraft:seagrass_simple"
+	  "minecraft:seagrass_normal"
     ],
     [
-      
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.05,
-  "temperature": 0.7,
+  "scale": 0.1,
+  "temperature": 0.25,
   "downfall": 0.8,
   "effects": {
     "mood_sound": {
@@ -178,9 +175,9 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 7907327,
+	"sky_color": 8364543,
     "fog_color": 12638463,
-    "water_color": 4159204,
+    "water_color": 4020182,
     "water_fog_color": 329011
   },
   "precipitation": "rain",

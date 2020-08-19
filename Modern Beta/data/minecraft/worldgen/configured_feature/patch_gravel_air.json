@@ -9,14 +9,11 @@
                 "feature": {
                   "config": {
                     "to_place": {
-                      "Properties": {
-                        "snowy": "false"
-                      },
-                      "Name": "minecraft:grass_block"
+                      "Name": "minecraft:air"
                     },
                     "place_on": [
                       {
-                        "Name": "minecraft:dirt"
+                        "Name": "minecraft:gravel"
                       }
                     ],
                     "place_in": [
@@ -34,9 +31,9 @@
                 },
                 "decorator": {
                   "config": {
-                    "bottom_offset": 62,
+                    "bottom_offset": 65,
                     "top_offset": 0,
-                    "maximum": 4
+                    "maximum": 1
                   },
                   "type": "minecraft:range"
                 }
@@ -72,7 +69,7 @@
     },
     "decorator": {
       "config": {
-        "count": 40
+        "count": 10
       },
       "type": "minecraft:count"
     }

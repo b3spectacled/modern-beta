@@ -138,12 +138,14 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-	  "minecraft:sand_beach",
-	  "minecraft:ore_clay"
+      "minecraft:gravel_beach",
+      "minecraft:patch_gravel_air",
+      "minecraft:patch_grass_block_air",
+      "minecraft:patch_grass_block"
     ],
     [],
     [
-      "minecraft:patch_grass_block",
+      "minecraft:patch_grass_marsh",
       "minecraft:marsh_vegetation",
       "minecraft:flower_swamp",
       "minecraft:patch_grass",

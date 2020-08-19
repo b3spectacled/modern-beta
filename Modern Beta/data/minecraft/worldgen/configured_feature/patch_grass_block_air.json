@@ -16,7 +16,7 @@
                     },
                     "place_on": [
                       {
-                        "Name": "minecraft:dirt"
+                        "Name": "minecraft:cave_air"
                       }
                     ],
                     "place_in": [
@@ -36,7 +36,7 @@
                   "config": {
                     "bottom_offset": 62,
                     "top_offset": 0,
-                    "maximum": 4
+                    "maximum": 3
                   },
                   "type": "minecraft:range"
                 }
@@ -72,7 +72,7 @@
     },
     "decorator": {
       "config": {
-        "count": 40
+        "count": 10
       },
       "type": "minecraft:count"
     }
