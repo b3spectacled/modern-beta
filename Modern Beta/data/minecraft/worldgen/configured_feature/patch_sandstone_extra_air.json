@@ -1,0 +1,78 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "feature": {
+                  "config": {
+                    "to_place": {
+                      "Name": "minecraft:sandstone"
+                    },
+                    "place_on": [
+                      {
+                        "Name": "minecraft:cave_air"
+                      }
+                    ],
+                    "place_in": [
+                      {
+                        "Name": "minecraft:cave_air"
+                      }
+                    ],
+                    "place_under": [
+                      {
+                        "Name": "minecraft:sandstone"
+                      }
+                    ]
+                  },
+                  "type": "minecraft:simple_block"
+                },
+                "decorator": {
+                  "config": {
+                    "bottom_offset": 57,
+                    "top_offset": 0,
+                    "maximum": 6
+                  },
+                  "type": "minecraft:range"
+                }
+              },
+              "type": "minecraft:decorated"
+            },
+            "decorator": {
+              "config": {
+                "outer": {
+                  "config": {},
+                  "type": "minecraft:square"
+                },
+                "inner": {
+                  "config": {},
+                  "type": "minecraft:heightmap_spread_double"
+                }
+              },
+              "type": "minecraft:decorated"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {
+            "count": 128,
+            "extra_chance": 1.0,
+            "extra_count": 128
+          },
+          "type": "minecraft:count_extra"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 20
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

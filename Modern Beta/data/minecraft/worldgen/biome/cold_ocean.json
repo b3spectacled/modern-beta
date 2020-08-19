@@ -132,7 +132,11 @@
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
 	  "minecraft:sand_beach",
-	  "minecraft:ore_clay"
+	  "minecraft:ore_clay",
+      "minecraft:patch_sandstone",
+      "minecraft:patch_sandstone_air",
+      "minecraft:patch_sandstone_extra",
+      "minecraft:patch_sandstone_extra_air"
     ],
     [],
     [
