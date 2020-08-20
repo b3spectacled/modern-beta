@@ -146,7 +146,9 @@
       "minecraft:patch_sandstone_extra",
       "minecraft:patch_sandstone_extra_air",
       "minecraft:patch_grass_block_air",
-      "minecraft:patch_grass_block"
+      "minecraft:patch_grass_block",
+      "minecraft:patch_dirt_127",
+      "minecraft:patch_grass_127"
     ],
     [],
     [

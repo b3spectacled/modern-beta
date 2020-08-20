@@ -161,7 +161,9 @@
       "minecraft:patch_grass_block_air",
       "minecraft:patch_grass_block",
       "minecraft:gravel_beach",
-      "minecraft:patch_gravel_air"
+      "minecraft:patch_gravel_air",
+      "minecraft:patch_dirt_127",
+      "minecraft:patch_grass_127"
     ],
     [],
     [
