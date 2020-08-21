@@ -127,7 +127,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "surface_builder": "minecraft:beach",
+  "surface_builder": "modern_beta:beach",
   "carvers": {
     "air": [
       "minecraft:cave",
@@ -158,16 +158,16 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-      "minecraft:patch_grass_block_air",
-      "minecraft:patch_grass_block",
-      "minecraft:gravel_beach",
-      "minecraft:patch_gravel_air",
-      "minecraft:patch_dirt_127",
-      "minecraft:patch_grass_127"
+      "modern_beta:patch_grass_block_air",
+      "modern_beta:patch_grass_block",
+      "modern_beta:gravel_beach",
+      "modern_beta:patch_gravel_air",
+      "modern_beta:patch_dirt_127",
+      "modern_beta:patch_grass_127"
     ],
     [],
     [
-	  "minecraft:taiga_vegetation",
+	  "modern_beta:taiga_vegetation",
       "minecraft:patch_large_fern",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga_2",

@@ -108,8 +108,8 @@
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
       "minecraft:ore_gold_extra",
-	  "minecraft:sand_beach",
-	  "minecraft:ore_clay"
+	  "modern_beta:sand_beach",
+	  "modern_beta:ore_clay"
     ],
     [],
     [

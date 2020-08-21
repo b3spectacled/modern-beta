@@ -114,7 +114,7 @@
   },
   "parent": "plains",
   "spawn_costs": {},
-  "surface_builder": "minecraft:beach",
+  "surface_builder": "modern_beta:beach",
   "carvers": {
     "air": [
       "minecraft:cave",
@@ -145,18 +145,18 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-	  "minecraft:sand_beach",
-	  "minecraft:ore_clay",
-      "minecraft:patch_sandstone",
-      "minecraft:patch_sandstone_air",
-      "minecraft:patch_sandstone_extra",
-      "minecraft:patch_sandstone_extra_air",
-      "minecraft:patch_grass_block_air",
-      "minecraft:patch_grass_block"
+	  "modern_beta:sand_beach",
+	  "modern_beta:ore_clay",
+      "modern_beta:patch_sandstone",
+      "modern_beta:patch_sandstone_air",
+      "modern_beta:patch_sandstone_extra",
+      "modern_beta:patch_sandstone_extra_air",
+      "modern_beta:patch_grass_block_air",
+      "modern_beta:patch_grass_block"
     ],
     [],
     [
-      "minecraft:patch_tall_grass_2",
+      "modern_beta:patch_tall_grass_2",
 	  "minecraft:patch_grass_forest",
       "minecraft:patch_sunflower",
       "minecraft:plain_vegetation",
@@ -183,7 +183,7 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 9158143,
+	"sky_color": 7254527,
     "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011

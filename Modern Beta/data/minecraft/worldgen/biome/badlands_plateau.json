@@ -46,9 +46,8 @@
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
       "minecraft:ore_gold_extra",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "modern_beta:sand_beach",
+	  "modern_beta:ore_clay"
     ],
     [],
     [

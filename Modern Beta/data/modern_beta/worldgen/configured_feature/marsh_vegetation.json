@@ -6,7 +6,7 @@
           "config": {
             "features": [
               {
-                "feature": "minecraft:marsh_tree",
+                "feature": "modern_beta:marsh_tree",
                 "chance": 0.8
               }
             ],
