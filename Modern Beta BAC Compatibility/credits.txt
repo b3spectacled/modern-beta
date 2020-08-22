@@ -1,0 +1,15 @@
+Compatibility pack for Cavinator1's BlazeandCave's Advancements Pack (1.10.3).
+
+Data Pack Webpage: https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/
+
+Updated Advancements: 
+    * Biomes
+        * Cold Feet           -- (Giant Spruce Taiga, Giant Tree Taiga, Taiga)
+        * Explorer of Worlds  -- (See Adventuring Time advancement + Sunflower Plains, Ice Desert, Ice Spikes)
+        * One with the Forest -- (Forest, Plains, Dark Forest, Birch Forest, Seasonal Forest, Shrubland)
+        * Overgrown           -- (Swamp, Mushroom Fields, Jungle, Bamboo Jungle, Rainforest)
+        * Snow Feet           -- (Snowy Taiga, Snowy Tundra, Snowy Beach)
+        * The Mighty Jungle   -- (Jungle)
+        * The Sea Calls You   -- (Ocean, Lukewarm Ocean, Warm Ocean, Cold Ocean, Frozen Ocean, Deep Ocean, Deep Lukewarm Ocean, Deep Warm Ocean, Deep Cold Ocean, Deep Frozen Ocean)
+        * Warm Feet           -- (Desert, Badlands, Savanna, Savanna Grassland, Badlands Plateau)
+        * Wet Feet            -- (Marsh, Beach, Lukewarm Beach, Warm Beach, Cold Beach, Ocean, Lukewarm Ocean, Warm Ocean, Cold Ocean, Frozen Ocean, Deep Ocean, Deep Lukewarm Ocean, Deep Warm Ocean, Deep Cold Ocean, Deep Frozen Ocean)
