@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:jungle_leaves"
+        },
+        "title": {"translate":"The Mighty Jungle"},
+        "description": {"translate":"Go for a safari in the jungle"}
+    },
+    "parent": "blazeandcave:biomes/for_you_my_sweet",	
+    "rewards": {
+		"function": "bc_rewards:biomes/the_mighty_jungle"
+    },	
+    "criteria": {
+        "jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:jungle"
+            }
+        }
+    },
+	"requirements": [
+		[
+		"jungle"
+		]
+	]
+}

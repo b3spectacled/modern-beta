@@ -1,0 +1,35 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:spruce_sapling"
+        },
+        "title": {"translate":"Cold Feet"},
+        "description": {"translate":"Discover every cold biome"},
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:biomes/one_with_the_forest",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:biomes/cold_feet"
+    },	
+    "criteria": {
+        "spruce_taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:giant_spruce_taiga"
+            }
+        },
+        "redwood_taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:giant_tree_taiga"
+            }
+        },
+        "taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:taiga"
+            }
+        }	
+    }
+}

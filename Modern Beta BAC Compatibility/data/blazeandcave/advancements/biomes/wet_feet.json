@@ -1,0 +1,107 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "title": {"translate":"Wet Feet"},
+        "description": {"translate":"Discover every water biome"},
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:biomes/overgrown",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:biomes/wet_feet"
+    },	
+    "criteria": {
+        "marsh": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:marsh"
+            }
+        },
+        "deep_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_ocean"
+            }
+        },
+        "ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:ocean"
+            }
+        },
+        "cold_beach": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:cold_beach"
+            }
+        },
+        "beaches": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:beach"
+            }
+        },
+        "lukewarm_beach": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:lukewarm_beach"
+            }
+        },
+        "warm_beach": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:warm_beach"
+            }
+        },
+        "deep_frozen_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_frozen_ocean"
+            }
+        },
+        "frozen_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:frozen_ocean"
+            }
+        },
+        "cold_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:cold_ocean"
+            }
+        },
+        "deep_cold_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_cold_ocean"
+            }
+        },
+        "lukewarm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:lukewarm_ocean"
+            }
+        },
+        "deep_lukewarm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_lukewarm_ocean"
+            }
+        },
+        "warm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:warm_ocean"
+            }
+        },
+        "deep_warm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_warm_ocean"
+            }
+        }
+    }
+}

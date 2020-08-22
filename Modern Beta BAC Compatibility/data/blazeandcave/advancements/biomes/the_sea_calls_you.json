@@ -1,0 +1,89 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:seagrass"
+        },
+        "title": {"translate":"The sea calls you..."},
+        "description": {"translate":"Find an ocean"}
+    },
+    "parent": "blazeandcave:biomes/just_keep_swimming",	
+    "rewards": {
+		"function": "bc_rewards:biomes/the_sea_calls_you"
+    },	
+    "criteria": {
+        "deep_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_ocean"
+            }
+        },
+        "ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:ocean"
+            }
+        },
+        "deep_frozen_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_frozen_ocean"
+            }
+        },
+        "frozen_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:frozen_ocean"
+            }
+        },
+        "cold_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:cold_ocean"
+            }
+        },
+        "deep_cold_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_cold_ocean"
+            }
+        },
+        "lukewarm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:lukewarm_ocean"
+            }
+        },
+        "deep_lukewarm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_lukewarm_ocean"
+            }
+        },
+        "warm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:warm_ocean"
+            }
+        },
+        "deep_warm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_warm_ocean"
+            }
+        }		
+    },
+    "requirements": [
+		[
+        "deep_ocean",
+        "ocean",
+		"deep_frozen_ocean",
+		"frozen_ocean",
+		"cold_ocean",
+		"deep_cold_ocean",
+		"lukewarm_ocean",
+		"deep_lukewarm_ocean",
+		"warm_ocean",
+        "deep_warm_ocean"
+		]
+    ]
+}

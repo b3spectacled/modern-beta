@@ -1,0 +1,53 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:oak_sapling"
+        },
+        "title": {"translate":"One with the forest"},
+        "description": {"translate":"Discover every forest biome"},
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:biomes/kilometre_walk",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:biomes/one_with_the_forest"
+    },	
+    "criteria": {
+        "forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:forest"
+            }
+        },        
+        "plains": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:plains"
+            }
+        },
+        "roofed_forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:dark_forest"
+            }
+        },
+        "birch_forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:birch_forest"
+            }
+        },
+        "seasonal_forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:seasonal_forest"
+            }
+        },
+        "shrubland": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:shrubland"
+            }
+        }
+    }
+}
