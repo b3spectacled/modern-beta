@@ -8,17 +8,9 @@
               {
                 "feature": "minecraft:pine",
                 "chance": 0.33333334
-              },
-              {
-                "feature": "minecraft:spruce",
-                "chance": 0.666
-              },
-              {
-                "feature": "modern_beta:fancy_oak",
-                "chance": 0.1
               }
             ],
-            "default": "minecraft:oak"
+            "default": "minecraft:spruce"
           },
           "type": "minecraft:random_selector"
         },
