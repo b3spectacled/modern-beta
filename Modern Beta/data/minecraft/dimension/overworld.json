@@ -1239,13 +1239,13 @@
           }
         },
 		{
-          "biome": "minecraft:mushroom_fields",
+          "biome": "minecraft:deep_ocean",
           "parameters": {
             "temperature": -0.2,
             "humidity": 0.8,
-            "altitude": 0.4,
+            "altitude": 0.6,
             "weirdness": 0.0,
-            "offset": 0.2
+            "offset": 0.0
           }
         },
         {
@@ -1255,17 +1255,17 @@
             "humidity": 0.8,
             "altitude": 0.4,
             "weirdness": 0.0,
-            "offset": 0.15
+            "offset": 0.1
           }
         },
         {
-          "biome": "minecraft:mushroom_fields",
+          "biome": "minecraft:deep_ocean",
           "parameters": {
             "temperature": 0.2,
             "humidity": 0.8,
-            "altitude": 0.4,
+            "altitude": 0.6,
             "weirdness": 0.0,
-            "offset": 0.2
+            "offset": 0.0
           }
         }
       ]

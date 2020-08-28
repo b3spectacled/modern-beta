@@ -1,0 +1,51 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "minecraft:fancy_oak",
+                "chance": 0.1
+              },
+              {
+                "feature": "minecraft:jungle_bush",
+                "chance": 0.5
+              }
+            ],
+            "default": "minecraft:jungle_tree"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": {
+          "base": 1,
+          "spread": 8,
+          "minBase": 1,
+          "maxBase": 1,
+          "maxSpread": 8
+        }
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -150,7 +150,8 @@
     ],
     [],
     [
-      "minecraft:trees_jungle_edge",
+      "modern_beta:warm_beach_vegetation",
+      "modern_beta:warm_beach_vegetation_extra",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
       "minecraft:brown_mushroom_normal",
