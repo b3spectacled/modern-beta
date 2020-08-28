@@ -152,6 +152,7 @@
     [],
     [
 	  "modern_beta:forest_vegetation",
+      "modern_beta:forest_vegetation_extra",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",

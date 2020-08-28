@@ -6,11 +6,11 @@
           "config": {
             "features": [
               {
-                "feature": "modern_beta:fancy_oak_bees_002",
-                "chance": 0.1
+                "feature": "minecraft:super_birch_bees_0002",
+                "chance": 0.33333334
               }
             ],
-            "default": "minecraft:oak_bees_002"
+            "default": "minecraft:birch_bees_0002"
           },
           "type": "minecraft:random_selector"
         },
@@ -32,15 +32,11 @@
     },
     "decorator": {
       "config": {
-        "count": {
-          "base": 0,
-          "spread": 6,
-          "minBase": 0,
-          "maxBase": 0,
-          "maxSpread": 6
-        }
+        "count": 0,
+        "extra_chance": 0.1,
+        "extra_count": 1
       },
-      "type": "minecraft:count_multilayer"
+      "type": "minecraft:count_extra"
     }
   },
   "type": "minecraft:decorated"

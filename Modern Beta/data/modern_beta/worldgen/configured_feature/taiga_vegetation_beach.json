@@ -40,11 +40,15 @@
     },
     "decorator": {
       "config": {
-        "count": 2,
-        "extra_chance": 0.1,
-        "extra_count": 1
+        "count": {
+          "base": 0,
+          "spread": 6,
+          "minBase": 0,
+          "maxBase": 0,
+          "maxSpread": 6
+        }
       },
-      "type": "minecraft:count_extra"
+      "type": "minecraft:count_multilayer"
     }
   },
   "type": "minecraft:decorated"

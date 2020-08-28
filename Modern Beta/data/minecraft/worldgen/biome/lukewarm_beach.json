@@ -151,6 +151,7 @@
     [],
     [
       "modern_beta:flower_forest_vegetation",
+      "modern_beta:forest_vegetation_extra",
 	  "minecraft:patch_grass_forest",
       "minecraft:flower_default",
       "minecraft:brown_mushroom_normal",
@@ -166,8 +167,8 @@
     ]
   ],
   "scale": 0.05,
-  "temperature": 0.7,
-  "downfall": 0.8,
+  "temperature": 0.875,
+  "downfall": 0.625,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",

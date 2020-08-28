@@ -147,6 +147,7 @@
     [],
     [
 	  "modern_beta:taiga_vegetation_beach",
+      "modern_beta:taiga_vegetation_beach_extra",
 	  "minecraft:patch_grass_forest",
       "minecraft:flower_default",
       "minecraft:brown_mushroom_normal",

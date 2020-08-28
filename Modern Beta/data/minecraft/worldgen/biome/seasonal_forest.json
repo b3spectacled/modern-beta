@@ -146,6 +146,7 @@
     [],
     [
       "modern_beta:forest_vegetation_seasonal",
+      "modern_beta:forest_vegetation_seasonal_extra",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",
@@ -162,8 +163,8 @@
     ]
   ],
   "scale": 0.5,
-  "temperature": 0.8,
-  "downfall": 0.6,
+  "temperature": 0.875,
+  "downfall": 0.625,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",

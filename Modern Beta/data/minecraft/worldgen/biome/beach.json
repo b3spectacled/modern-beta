@@ -153,6 +153,7 @@
     [],
     [
 	  "modern_beta:flower_forest_vegetation",
+      "modern_beta:forest_vegetation_extra",
 	  "minecraft:patch_grass_forest",
       "minecraft:flower_default",
       "minecraft:brown_mushroom_normal",
