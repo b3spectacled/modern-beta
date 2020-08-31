@@ -125,8 +125,7 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-	  "modern_beta:sand_beach",
-	  "modern_beta:ore_clay"
+	  "modern_beta:sand_beach"
     ],
     [],
     [

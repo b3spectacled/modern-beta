@@ -2,8 +2,10 @@
   "type": "minecraft:overworld",
   "generator": {
     "type": "minecraft:noise",
-    "seed": 1234,
+    "seed": -186416541,
     "biome_source": {
+      "type": "minecraft:multi_noise",
+      "seed": -186416541,
 	  "temperature_noise": {
         "firstOctave": -9,
         "amplitudes": [
@@ -55,8 +57,6 @@
           1.0
         ]
       },
-      "type": "minecraft:multi_noise",
-      "seed": 1234,
       "biomes": [
 		{
           "biome": "minecraft:deep_frozen_ocean",
@@ -1255,7 +1255,7 @@
             "humidity": 0.8,
             "altitude": 0.4,
             "weirdness": 0.0,
-            "offset": 0.1
+            "offset": 0.2
           }
         },
         {

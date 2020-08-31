@@ -157,9 +157,10 @@
     ],
     [],
     [
+      "modern_beta:trees_savanna",
+      "modern_beta:trees_savanna_extra",
 	  "minecraft:patch_grass_forest",
       "minecraft:patch_tall_grass",
-      "minecraft:trees_savanna",
       "minecraft:flower_warm",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",

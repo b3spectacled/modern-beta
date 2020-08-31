@@ -151,8 +151,8 @@
     ],
     [],
     [
-	  "modern_beta:forest_vegetation",
-      "modern_beta:forest_vegetation_extra",
+	  "modern_beta:trees_forest",
+      "modern_beta:trees_forest_extra",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",

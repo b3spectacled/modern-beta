@@ -153,8 +153,8 @@
     [],
     [
       "minecraft:forest_flower_vegetation_common",
-      "modern_beta:flower_forest_vegetation",
-      "modern_beta:forest_vegetation_extra",
+      "modern_beta:trees_flower_forest",
+      "modern_beta:trees_forest_extra",
       "minecraft:flower_forest",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",

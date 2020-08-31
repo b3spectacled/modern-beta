@@ -165,7 +165,8 @@
     ],
     [],
     [
-	  "modern_beta:taiga_vegetation",
+	  "modern_beta:trees_taiga",
+      "modern_beta:trees_taiga_extra",
       "minecraft:patch_large_fern",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga_2",
