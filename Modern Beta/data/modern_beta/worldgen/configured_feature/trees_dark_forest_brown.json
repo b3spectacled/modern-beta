@@ -1,0 +1,63 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "minecraft:huge_brown_mushroom",
+                "chance": 0.025
+              },
+              {
+                "feature": "minecraft:huge_red_mushroom",
+                "chance": 0.05
+              },
+              {
+                "feature": "minecraft:dark_oak",
+                "chance": 0.6666667
+              },
+              {
+                "feature": "minecraft:birch",
+                "chance": 0.2
+              },
+              {
+                "feature": "minecraft:fancy_oak",
+                "chance": 0.1
+              }
+            ],
+            "default": "minecraft:oak"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": {
+          "base": 6,
+          "spread": 8,
+          "minBase": 6,
+          "maxBase": 6,
+          "maxSpread": 8
+        }
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

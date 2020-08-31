@@ -6,11 +6,15 @@
           "config": {
             "features": [
               {
-                "feature": "modern_beta:swamp_tree",
-                "chance": 0.8
+                "feature": "minecraft:mega_spruce",
+                "chance": 0.33333334
+              },
+              {
+                "feature": "minecraft:pine",
+                "chance": 0.33333334
               }
             ],
-            "default": "minecraft:oak"
+            "default": "minecraft:spruce"
           },
           "type": "minecraft:random_selector"
         },

@@ -171,7 +171,8 @@
     [],
     [
       "minecraft:bamboo",
-      "minecraft:bamboo_vegetation",
+      "modern_beta:trees_bamboo_jungle",
+      "modern_beta:trees_bamboo_jungle_extra",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
       "minecraft:brown_mushroom_normal",

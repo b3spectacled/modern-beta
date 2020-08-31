@@ -146,7 +146,8 @@
     ],
     [],
     [
-      "minecraft:dark_forest_vegetation_brown",
+      "modern_beta:trees_dark_forest_brown",
+      "modern_beta:trees_dark_forest_brown_extra",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",

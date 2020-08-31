@@ -166,8 +166,9 @@
     ],
     [],
     [
+      "modern_beta:trees_giant_spruce",
+      "modern_beta:trees_giant_spruce_extra",
       "minecraft:patch_large_fern",
-      "minecraft:trees_giant_spruce",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga",
       "minecraft:patch_dead_bush",

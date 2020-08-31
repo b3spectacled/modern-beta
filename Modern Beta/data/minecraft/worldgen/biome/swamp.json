@@ -147,7 +147,8 @@
     [],
     [
       "modern_beta:patch_grass_marsh",
-      "minecraft:swamp_tree",
+      "modern_beta:trees_swamp",
+      "modern_beta:trees_swamp_extra",
       "minecraft:flower_swamp",
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",
