@@ -2,10 +2,10 @@
   "type": "minecraft:overworld",
   "generator": {
     "type": "minecraft:noise",
-    "seed": -186416541,
+    "seed": 1234,
     "biome_source": {
       "type": "minecraft:multi_noise",
-      "seed": -186416541,
+      "seed": 1234,
 	  "temperature_noise": {
         "firstOctave": -9,
         "amplitudes": [
