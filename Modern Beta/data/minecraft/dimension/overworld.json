@@ -799,7 +799,7 @@
           }
         },
         {
-          "biome": "minecraft:forest",
+          "biome": "minecraft:forest_g",
           "parameters": {
             "temperature": 0.2,
             "humidity": 0.0,
@@ -869,7 +869,7 @@
           }
         },
         {
-          "biome": "minecraft:forest",
+          "biome": "minecraft:forest_g",
           "parameters": {
             "temperature": 0.2,
             "humidity": -0.4,

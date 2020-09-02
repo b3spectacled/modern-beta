@@ -1,6 +1,5 @@
 {
   "starts": [
-    "minecraft:mansion",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal"
@@ -80,6 +79,12 @@
         "weight": 8,
         "minCount": 4,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:wolf",
+        "weight": 5,
+        "minCount": 4,
+        "maxCount": 4
       }
     ],
     "ambient": [
@@ -133,21 +138,17 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-	  "modern_beta:sand_beach",
-	  "modern_beta:ore_clay",
-      "modern_beta:patch_sandstone",
-      "modern_beta:patch_sandstone_air",
-      "modern_beta:patch_sandstone_extra",
-      "modern_beta:patch_sandstone_extra_air",
       "modern_beta:patch_grass_block_air",
       "modern_beta:patch_grass_block",
+      "modern_beta:gravel_beach",
+      "modern_beta:patch_gravel_air",
       "modern_beta:patch_dirt_127",
       "modern_beta:patch_grass_127"
     ],
     [],
     [
-      "modern_beta:trees_dark_forest_brown",
-      "modern_beta:trees_dark_forest_brown_extra",
+	  "modern_beta:trees_forest",
+      "modern_beta:trees_forest_extra",
       "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",
@@ -164,8 +165,8 @@
     ]
   ],
   "scale": 0.5,
-  "temperature": 0.9,
-  "downfall": 0.85,
+  "temperature": 0.7,
+  "downfall": 0.8,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -173,10 +174,10 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 9158143,
+	"sky_color": 9158143,
     "fog_color": 12638463,
-    "water_color": 4566514,
-    "water_fog_color": 267827
+    "water_color": 4159204,
+    "water_fog_color": 329011
   },
   "precipitation": "rain",
   "category": "forest",
