@@ -148,10 +148,7 @@
 	  "modern_beta:sand_beach",
 	  "modern_beta:ore_clay",
       "modern_beta:patch_sandstone",
-      "modern_beta:patch_sandstone_air",
       "modern_beta:patch_sandstone_extra",
-      "modern_beta:patch_sandstone_extra_air",
-      "modern_beta:patch_grass_block_air",
       "modern_beta:patch_grass_block",
       "modern_beta:patch_dirt_127",
       "modern_beta:patch_grass_127"
@@ -160,7 +157,6 @@
     [
 	  "modern_beta:trees_shrubland",
       "modern_beta:bush_shrubland",
-      "modern_beta:patch_tall_grass_2",
       "minecraft:flower_plain_decorated",
       "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",

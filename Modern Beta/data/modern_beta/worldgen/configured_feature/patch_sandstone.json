@@ -14,11 +14,23 @@
                     "place_on": [
                       {
                         "Name": "minecraft:stone"
+                      },
+                      {
+                        "Name": "minecraft:cave_air"
+                      },
+                      {
+                        "Name": "minecraft:air"
                       }
                     ],
                     "place_in": [
                       {
                         "Name": "minecraft:stone"
+                      },
+                      {
+                        "Name": "minecraft:cave_air"
+                      },
+                      {
+                        "Name": "minecraft:air"
                       }
                     ],
                     "place_under": [
@@ -69,7 +81,7 @@
     },
     "decorator": {
       "config": {
-        "count": 30
+        "count": 60
       },
       "type": "minecraft:count"
     }
