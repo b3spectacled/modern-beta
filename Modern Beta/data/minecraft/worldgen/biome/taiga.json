@@ -158,9 +158,11 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
+      "modern_beta:sand_beach",
+	  "modern_beta:ore_clay",
+      "modern_beta:patch_sandstone",
+      "modern_beta:patch_sandstone_extra",
       "modern_beta:patch_grass_block",
-      "modern_beta:gravel_beach",
-      "modern_beta:patch_gravel_air",
       "modern_beta:patch_dirt_127",
       "modern_beta:patch_grass_127"
     ],
