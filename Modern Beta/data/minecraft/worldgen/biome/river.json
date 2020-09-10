@@ -108,8 +108,8 @@
     [],
     [],
     [
-      "minecraft:ore_dirt",
-      "minecraft:ore_gravel",
+      "modern_beta:ore_dirt",
+      "modern_beta:ore_gravel",
       "minecraft:ore_granite",
       "minecraft:ore_diorite",
       "minecraft:ore_andesite",
@@ -143,8 +143,8 @@
     ]
   ],
   "scale": 0.0,
-  "temperature": 0.5,
-  "downfall": 0.5,
+  "temperature": 0.6,
+  "downfall": 0.6,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -159,5 +159,5 @@
   },
   "precipitation": "rain",
   "category": "river",
-  "depth": -0.5
+  "depth": -0.2
 }
