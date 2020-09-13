@@ -1,0 +1,27 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "features": [
+          {
+            "feature": "modern_beta:trees_forest",
+            "chance": 0.2
+          },
+          {
+            "feature": "modern_beta:trees_flower_forest",
+            "chance": 0.8
+          }
+        ],
+        "default": "modern_beta:trees_forest"
+      },
+      "type": "minecraft:random_selector"
+    },
+    "decorator": {
+      "config": {
+        "count": 1
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

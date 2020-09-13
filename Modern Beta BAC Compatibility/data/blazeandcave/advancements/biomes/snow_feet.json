@@ -25,10 +25,16 @@
                 "biome": "minecraft:snowy_tundra"
             }
         },
-        "cold_beach": {
+        "snowy_beach": {
             "trigger": "minecraft:location",
             "conditions": {
                 "biome": "minecraft:snowy_beach"
+            }
+        },
+        "frozen_river": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:frozen_river"
             }
         }		
     }

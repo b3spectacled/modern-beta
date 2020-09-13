@@ -1,10 +1,8 @@
 {
   "starts": [
-    "minecraft:ocean_ruin_warm",
-    "minecraft:monument",
     "minecraft:mineshaft",
-    "minecraft:shipwreck",
-    "minecraft:ruined_portal_ocean"
+    "minecraft:stronghold",
+    "minecraft:ruined_portal"
   ],
   "spawners": {
     "monster": [
@@ -55,15 +53,40 @@
         "weight": 5,
         "minCount": 1,
         "maxCount": 1
-      },
-      {
-        "type": "minecraft:drowned",
-        "weight": 5,
-        "minCount": 1,
-        "maxCount": 1
       }
     ],
-    "creature": [],
+    "creature": [
+      {
+        "type": "minecraft:sheep",
+        "weight": 12,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:pig",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:chicken",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:cow",
+        "weight": 8,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:wolf",
+        "weight": 5,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
     "ambient": [
       {
         "type": "minecraft:bat",
@@ -75,49 +98,20 @@
     "water_creature": [
       {
         "type": "minecraft:squid",
-        "weight": 8,
-        "minCount": 1,
+        "weight": 10,
+        "minCount": 4,
         "maxCount": 4
-      },
-      {
-        "type": "minecraft:dolphin",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 2
       }
     ],
-    "water_ambient": [
-      {
-        "type": "minecraft:cod",
-        "weight": 8,
-        "minCount": 3,
-        "maxCount": 6
-      },
-      {
-        "type": "minecraft:pufferfish",
-        "weight": 5,
-        "minCount": 1,
-        "maxCount": 3
-      },
-      {
-        "type": "minecraft:tropical_fish",
-        "weight": 25,
-        "minCount": 8,
-        "maxCount": 8
-      }
-    ],
+    "water_ambient": [],
     "misc": []
   },
   "spawn_costs": {},
-  "surface_builder": "modern_beta:ocean_sand_beach",
+  "surface_builder": "modern_beta:beach",
   "carvers": {
     "air": [
-      "minecraft:ocean_cave",
+      "minecraft:cave",
       "minecraft:canyon"
-    ],
-    "liquid": [
-      "minecraft:underwater_canyon",
-      "minecraft:underwater_cave"
     ]
   },
   "features": [
@@ -144,34 +138,34 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-	  "modern_beta:sand_beach",
-	  "modern_beta:ore_clay",
-      "modern_beta:patch_sandstone",
-      "modern_beta:patch_sandstone_extra",
-      "modern_beta:patch_grass_block"
+      "modern_beta:patch_grass_block",
+      "modern_beta:gravel_beach",
+      "modern_beta:patch_gravel_air",
+      "modern_beta:patch_air_127"
+      
     ],
     [],
     [
-      "minecraft:trees_water",
+	  "modern_beta:trees_forest",
+      "modern_beta:trees_forest_extra",
+      "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
-      "minecraft:patch_grass_badlands",
+      "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "minecraft:seagrass_deep_warm",
-      "minecraft:seagrass_simple",
-      "minecraft:kelp_warm"
+	  "minecraft:seagrass_normal"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.1,
-  "temperature": 0.5,
-  "downfall": 0.5,
+  "scale": 0.5,
+  "temperature": 0.6,
+  "downfall": 0.7,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -179,12 +173,12 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 7254527,
+	"sky_color": 9158143,
     "fog_color": 12638463,
-    "water_color": 4566514,
-    "water_fog_color": 267827
+    "water_color": 4159204,
+    "water_fog_color": 329011
   },
   "precipitation": "rain",
-  "category": "ocean",
-  "depth": -1.8
+  "category": "forest",
+  "depth": 0.37
 }

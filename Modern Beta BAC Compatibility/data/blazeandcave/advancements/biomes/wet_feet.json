@@ -102,6 +102,18 @@
             "conditions": {
                 "biome": "minecraft:deep_warm_ocean"
             }
+        },
+        "river": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:river"
+            }
+        },
+        "lukewarm_river": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:lukewarm_river"
+            }
         }
     }
 }

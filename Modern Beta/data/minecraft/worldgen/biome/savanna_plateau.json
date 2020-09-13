@@ -32,8 +32,8 @@
     [],
     [],
     [
-      "minecraft:ore_dirt",
-      "minecraft:ore_gravel",
+      "modern_beta:ore_dirt",
+      "modern_beta:ore_gravel",
       "minecraft:ore_granite",
       "minecraft:ore_diorite",
       "minecraft:ore_andesite",
@@ -46,10 +46,7 @@
 	  "modern_beta:sand_beach",
 	  "modern_beta:ore_clay",
       "modern_beta:patch_sandstone",
-      "modern_beta:patch_sandstone_air",
       "modern_beta:patch_sandstone_extra",
-      "modern_beta:patch_sandstone_extra_air",
-      "modern_beta:patch_grass_block_air",
       "modern_beta:patch_grass_block"
     ],
     [],

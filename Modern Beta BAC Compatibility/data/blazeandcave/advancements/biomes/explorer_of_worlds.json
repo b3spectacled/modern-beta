@@ -69,6 +69,14 @@
             }
           }
         },
+        "minecraft:cold_river": {
+          "trigger": "minecraft:location",
+          "conditions": {
+            "location": {
+              "biome": "minecraft:cold_river"
+            }
+          }
+        },
         "minecraft:dark_forest": {
           "trigger": "minecraft:location",
           "conditions": {
@@ -125,6 +133,14 @@
             }
           }
         },
+        "minecraft:desert_river": {
+          "trigger": "minecraft:location",
+          "conditions": {
+            "location": {
+              "biome": "minecraft:desert_river"
+            }
+          }
+        },
         "minecraft:flower_forest": {
           "trigger": "minecraft:location",
           "conditions": {
@@ -146,6 +162,14 @@
           "conditions": {
             "location": {
               "biome": "minecraft:frozen_ocean"
+            }
+          }
+        },
+        "minecraft:frozen_river": {
+          "trigger": "minecraft:location",
+          "conditions": {
+            "location": {
+              "biome": "minecraft:frozen_river"
             }
           }
         },
@@ -205,6 +229,14 @@
             }
           }
         },
+        "minecraft:lukewarm_river": {
+          "trigger": "minecraft:location",
+          "conditions": {
+            "location": {
+              "biome": "minecraft:lukewarm_river"
+            }
+          }
+        },
         "minecraft:marsh": {
           "trigger": "minecraft:location",
           "conditions": {
@@ -242,6 +274,14 @@
           "conditions": {
             "location": {
               "biome": "minecraft:rainforest"
+            }
+          }
+        },
+        "minecraft:river": {
+          "trigger": "minecraft:location",
+          "conditions": {
+            "location": {
+              "biome": "minecraft:river"
             }
           }
         },

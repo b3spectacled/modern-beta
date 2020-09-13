@@ -30,6 +30,12 @@
             "conditions": {
                 "biome": "minecraft:taiga"
             }
-        }	
+        },
+        "cold_river": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:cold_river"
+            }
+        }
     }
 }

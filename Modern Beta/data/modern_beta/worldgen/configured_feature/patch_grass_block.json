@@ -17,6 +17,18 @@
                     "place_on": [
                       {
                         "Name": "minecraft:dirt"
+                      },
+                      {
+                        "Name": "minecraft:cave_air"
+                      },
+                      {
+                        "Name": "minecraft:air"
+                      },
+                      {
+                        "Properties": {
+                          "level": "0"
+                        },
+                          "Name": "minecraft:water"
                       }
                     ],
                     "place_in": [
@@ -72,7 +84,7 @@
     },
     "decorator": {
       "config": {
-        "count": 40
+        "count": 35
       },
       "type": "minecraft:count"
     }

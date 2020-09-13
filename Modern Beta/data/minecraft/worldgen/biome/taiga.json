@@ -147,8 +147,8 @@
     [],
     [],
     [
-      "minecraft:ore_dirt",
-      "minecraft:ore_gravel",
+      "modern_beta:ore_dirt",
+      "modern_beta:ore_gravel",
       "minecraft:ore_granite",
       "minecraft:ore_diorite",
       "minecraft:ore_andesite",
@@ -158,12 +158,13 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-      "modern_beta:patch_grass_block_air",
+      "modern_beta:sand_beach",
+	  "modern_beta:ore_clay",
+      "modern_beta:patch_sandstone",
+      "modern_beta:patch_sandstone_extra",
       "modern_beta:patch_grass_block",
-      "modern_beta:gravel_beach",
-      "modern_beta:patch_gravel_air",
-      "modern_beta:patch_dirt_127",
-      "modern_beta:patch_grass_127"
+      "modern_beta:patch_air_127"
+      
     ],
     [],
     [
@@ -189,7 +190,7 @@
   ],
   "scale": 0.5,
   "temperature": 0.2,
-  "downfall": 0.8,
+  "downfall": 0.3,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",

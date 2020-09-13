@@ -54,8 +54,8 @@
     [],
     [],
     [
-      "minecraft:ore_dirt",
-      "minecraft:ore_gravel",
+      "modern_beta:ore_dirt",
+      "modern_beta:ore_gravel",
       "minecraft:ore_granite",
       "minecraft:ore_diorite",
       "minecraft:ore_andesite",
@@ -101,5 +101,5 @@
   },
   "precipitation": "rain",
   "category": "mushroom",
-  "depth": 0.2
+  "depth": 0.3
 }

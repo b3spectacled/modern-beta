@@ -1,10 +1,7 @@
 {
   "starts": [
-    "minecraft:ocean_ruin_warm",
-    "minecraft:monument",
     "minecraft:mineshaft",
-    "minecraft:shipwreck",
-    "minecraft:ruined_portal_ocean"
+    "minecraft:ruined_portal"
   ],
   "spawners": {
     "monster": [
@@ -58,7 +55,7 @@
       },
       {
         "type": "minecraft:drowned",
-        "weight": 5,
+        "weight": 100,
         "minCount": 1,
         "maxCount": 1
       }
@@ -75,49 +72,27 @@
     "water_creature": [
       {
         "type": "minecraft:squid",
-        "weight": 8,
-        "minCount": 1,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:dolphin",
         "weight": 2,
         "minCount": 1,
-        "maxCount": 2
+        "maxCount": 4
       }
     ],
     "water_ambient": [
       {
-        "type": "minecraft:cod",
-        "weight": 8,
-        "minCount": 3,
-        "maxCount": 6
-      },
-      {
-        "type": "minecraft:pufferfish",
+        "type": "minecraft:salmon",
         "weight": 5,
         "minCount": 1,
-        "maxCount": 3
-      },
-      {
-        "type": "minecraft:tropical_fish",
-        "weight": 25,
-        "minCount": 8,
-        "maxCount": 8
+        "maxCount": 5
       }
     ],
     "misc": []
   },
   "spawn_costs": {},
-  "surface_builder": "modern_beta:ocean_sand_beach",
+  "surface_builder": "modern_beta:beach",
   "carvers": {
     "air": [
-      "minecraft:ocean_cave",
+      "minecraft:cave",
       "minecraft:canyon"
-    ],
-    "liquid": [
-      "minecraft:underwater_canyon",
-      "minecraft:underwater_cave"
     ]
   },
   "features": [
@@ -133,8 +108,8 @@
     [],
     [],
     [
-      "modern_beta:ore_dirt",
-      "modern_beta:ore_gravel",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
       "minecraft:ore_granite",
       "minecraft:ore_diorite",
       "minecraft:ore_andesite",
@@ -161,17 +136,15 @@
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "minecraft:seagrass_deep_warm",
-      "minecraft:seagrass_simple",
-      "minecraft:kelp_warm"
+      "minecraft:seagrass_river"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.1,
-  "temperature": 0.5,
-  "downfall": 0.5,
+  "scale": 0.0,
+  "temperature": 0.2,
+  "downfall": 0.3,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -179,12 +152,12 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 7254527,
+	"sky_color": 8364543,
     "fog_color": 12638463,
-    "water_color": 4566514,
-    "water_fog_color": 267827
+    "water_color": 4020182,
+    "water_fog_color": 329011
   },
   "precipitation": "rain",
-  "category": "ocean",
-  "depth": -1.8
+  "category": "river",
+  "depth": -0.5
 }

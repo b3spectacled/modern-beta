@@ -19,6 +19,12 @@
                 "biome": "minecraft:desert"
             }
         },
+        "desert_river": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:desert_river"
+            }
+        },
         "mesa": {
             "trigger": "minecraft:location",
             "conditions": {
