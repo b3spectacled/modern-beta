@@ -1,7 +1,6 @@
 {
   "starts": [
     "minecraft:mineshaft",
-    "minecraft:stronghold",
     "minecraft:ruined_portal"
   ],
   "spawners": {
@@ -53,46 +52,15 @@
         "weight": 5,
         "minCount": 1,
         "maxCount": 1
-      }
-    ],
-    "creature": [
-      {
-        "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
       },
       {
-        "type": "minecraft:pig",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:cow",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:horse",
-        "weight": 5,
-        "minCount": 2,
-        "maxCount": 6
-      },
-      {
-        "type": "minecraft:donkey",
-        "weight": 1,
+        "type": "minecraft:drowned",
+        "weight": 100,
         "minCount": 1,
-        "maxCount": 3
+        "maxCount": 1
       }
     ],
+    "creature": [],
     "ambient": [
       {
         "type": "minecraft:bat",
@@ -104,15 +72,21 @@
     "water_creature": [
       {
         "type": "minecraft:squid",
-        "weight": 10,
-        "minCount": 4,
+        "weight": 2,
+        "minCount": 1,
         "maxCount": 4
       }
     ],
-    "water_ambient": [],
+    "water_ambient": [
+      {
+        "type": "minecraft:salmon",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 5
+      }
+    ],
     "misc": []
   },
-  "parent": "plains",
   "spawn_costs": {},
   "surface_builder": "modern_beta:beach",
   "carvers": {
@@ -134,8 +108,8 @@
     [],
     [],
     [
-      "modern_beta:ore_dirt",
-      "modern_beta:ore_gravel",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
       "minecraft:ore_granite",
       "minecraft:ore_diorite",
       "minecraft:ore_andesite",
@@ -153,26 +127,24 @@
     ],
     [],
     [
-      "modern_beta:patch_tall_grass_2",
-	  "minecraft:patch_grass_forest",
-      "minecraft:patch_sunflower",
-      "minecraft:plain_vegetation",
-      "minecraft:flower_plain_decorated",
-      "minecraft:patch_sugar_cane",
+      "minecraft:trees_water",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
+      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-	  "minecraft:seagrass_normal"
+      "minecraft:seagrass_river"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.3,
-  "temperature": 0.8,
-  "downfall": 0.4,
+  "scale": 0.0,
+  "temperature": 0.9,
+  "downfall": 0.85,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -180,12 +152,12 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-	"sky_color": 7254527,
+	"sky_color": 9158143,
     "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_color": 4566514,
+    "water_fog_color": 267827
   },
   "precipitation": "rain",
-  "category": "plains",
-  "depth": 0.3
+  "category": "river",
+  "depth": -0.5
 }

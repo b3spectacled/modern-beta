@@ -162,8 +162,8 @@
     ]
   ],
   "scale": 0.1,
-  "temperature": 0.45,
-  "downfall": 0.375,
+  "temperature": 0.25,
+  "downfall": 0.8,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
