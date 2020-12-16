@@ -36,7 +36,7 @@
       "seed": 1234,
       "biomes": [
 		{
-          "biome": "minecraft:sky",
+          "biome": "modern_beta:sky",
           "parameters": {
             "temperature": 0.0,
             "humidity": 0.0,
@@ -47,6 +47,6 @@
         }
       ]
     },
-    "settings": "minecraft:sky"
+    "settings": "modern_beta:sky"
   }
 }

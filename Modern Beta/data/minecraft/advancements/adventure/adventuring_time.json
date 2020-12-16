@@ -20,480 +20,480 @@
     "experience": 500
   },
   "criteria": {
-    "minecraft:badlands": {
+    "modern_beta:badlands": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:badlands"
+          "biome": "modern_beta:badlands"
         }
       }
     },
-    "minecraft:badlands_plateau": {
+    "modern_beta:badlands_plateau": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:badlands_plateau"
+          "biome": "modern_beta:badlands_plateau"
         }
       }
     },
-    "minecraft:bamboo_jungle": {
+    "modern_beta:bamboo_jungle": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:bamboo_jungle"
+          "biome": "modern_beta:bamboo_jungle"
         }
       }
     },
-    "minecraft:beach": {
+    "modern_beta:beach": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:beach"
+          "biome": "modern_beta:beach"
         }
       }
     },
-    "minecraft:birch_forest": {
+    "modern_beta:birch_forest": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:birch_forest"
+          "biome": "modern_beta:birch_forest"
         }
       }
     },
-    "minecraft:cold_beach": {
+    "modern_beta:cold_beach": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:cold_beach"
+          "biome": "modern_beta:cold_beach"
         }
       }
     },
-    "minecraft:cold_ocean": {
+    "modern_beta:cold_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:cold_ocean"
+          "biome": "modern_beta:cold_ocean"
         }
       }
     },
-    "minecraft:cold_river": {
+    "modern_beta:cold_river": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:cold_river"
+          "biome": "modern_beta:cold_river"
         }
       }
     },
-    "minecraft:dark_forest": {
+    "modern_beta:dark_forest": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:dark_forest"
+          "biome": "modern_beta:dark_forest"
         }
       }
     },
-    "minecraft:deep_cold_ocean": {
+    "modern_beta:deep_cold_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:deep_cold_ocean"
+          "biome": "modern_beta:deep_cold_ocean"
         }
       }
     },
-    "minecraft:deep_frozen_ocean": {
+    "modern_beta:deep_frozen_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:deep_frozen_ocean"
+          "biome": "modern_beta:deep_frozen_ocean"
         }
       }
     },
-    "minecraft:deep_lukewarm_ocean": {
+    "modern_beta:deep_lukewarm_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:deep_lukewarm_ocean"
+          "biome": "modern_beta:deep_lukewarm_ocean"
         }
       }
     },
-    "minecraft:deep_ocean": {
+    "modern_beta:deep_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:deep_ocean"
+          "biome": "modern_beta:deep_ocean"
         }
       }
     },
-    "minecraft:deep_warm_ocean": {
+    "modern_beta:deep_warm_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:deep_warm_ocean"
+          "biome": "modern_beta:deep_warm_ocean"
         }
       }
     },
-    "minecraft:desert": {
+    "modern_beta:desert": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:desert"
+          "biome": "modern_beta:desert"
         }
       }
     },
-    "minecraft:desert_river": {
+    "modern_beta:desert_river": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:desert_river"
+          "biome": "modern_beta:desert_river"
         }
       }
     },
-    "minecraft:flower_forest": {
+    "modern_beta:flower_forest": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:flower_forest"
+          "biome": "modern_beta:flower_forest"
         }
       }
     },
-    "minecraft:forest": {
+    "modern_beta:forest": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:forest"
+          "biome": "modern_beta:forest"
         }
       }
     },
-    "minecraft:frozen_ocean": {
+    "modern_beta:frozen_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:frozen_ocean"
+          "biome": "modern_beta:frozen_ocean"
         }
       }
     },
-    "minecraft:frozen_river": {
+    "modern_beta:frozen_river": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:frozen_river"
+          "biome": "modern_beta:frozen_river"
         }
       }
     },
-    "minecraft:giant_spruce_taiga": {
+    "modern_beta:giant_spruce_taiga": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:giant_spruce_taiga"
+          "biome": "modern_beta:giant_spruce_taiga"
         }
       }
     },
-    "minecraft:giant_tree_taiga": {
+    "modern_beta:giant_tree_taiga": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:giant_tree_taiga"
+          "biome": "modern_beta:giant_tree_taiga"
         }
       }
     },
-    "minecraft:jungle": {
+    "modern_beta:jungle": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:jungle"
+          "biome": "modern_beta:jungle"
         }
       }
     },
-    "minecraft:lukewarm_beach": {
+    "modern_beta:lukewarm_beach": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:lukewarm_beach"
+          "biome": "modern_beta:lukewarm_beach"
         }
       }
     },
-    "minecraft:lukewarm_ocean": {
+    "modern_beta:lukewarm_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:lukewarm_ocean"
+          "biome": "modern_beta:lukewarm_ocean"
         }
       }
     },
-    "minecraft:lukewarm_river": {
+    "modern_beta:lukewarm_river": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:lukewarm_river"
+          "biome": "modern_beta:lukewarm_river"
         }
       }
     },
-    "minecraft:marsh": {
+    "modern_beta:marsh": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:marsh"
+          "biome": "modern_beta:marsh"
         }
       }
     },
-    "minecraft:mushroom_fields": {
+    "modern_beta:mushroom_fields": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:mushroom_fields"
+          "biome": "modern_beta:mushroom_fields"
         }
       }
     },
-    "minecraft:ocean": {
+    "modern_beta:ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:ocean"
+          "biome": "modern_beta:ocean"
         }
       }
     },
-    "minecraft:plains": {
+    "modern_beta:plains": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:plains"
+          "biome": "modern_beta:plains"
         }
       }
     },
-    "minecraft:rainforest": {
+    "modern_beta:rainforest": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:rainforest"
+          "biome": "modern_beta:rainforest"
         }
       }
     },
-    "minecraft:river": {
+    "modern_beta:river": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:river"
+          "biome": "modern_beta:river"
         }
       }
     },
-    "minecraft:savanna": {
+    "modern_beta:savanna": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:savanna"
+          "biome": "modern_beta:savanna"
         }
       }
     },
-    "minecraft:savanna_grassland": {
+    "modern_beta:savanna_grassland": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:savanna_grassland"
+          "biome": "modern_beta:savanna_grassland"
         }
       }
     },
-    "minecraft:seasonal_forest": {
+    "modern_beta:seasonal_forest": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:seasonal_forest"
+          "biome": "modern_beta:seasonal_forest"
         }
       }
     },
-    "minecraft:shrubland": {
+    "modern_beta:shrubland": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:shrubland"
+          "biome": "modern_beta:shrubland"
         }
       }
     },
-    "minecraft:snowy_beach": {
+    "modern_beta:snowy_beach": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:snowy_beach"
+          "biome": "modern_beta:snowy_beach"
         }
       }
     },
-    "minecraft:snowy_taiga": {
+    "modern_beta:snowy_taiga": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:snowy_taiga"
+          "biome": "modern_beta:snowy_taiga"
         }
       }
     },
-    "minecraft:snowy_tundra": {
+    "modern_beta:snowy_tundra": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:snowy_tundra"
+          "biome": "modern_beta:snowy_tundra"
         }
       }
     },
-    "minecraft:swamp": {
+    "modern_beta:swamp": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:swamp"
+          "biome": "modern_beta:swamp"
         }
       }
     },
-    "minecraft:taiga": {
+    "modern_beta:taiga": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:taiga"
+          "biome": "modern_beta:taiga"
         }
       }
     },
-    "minecraft:warm_beach": {
+    "modern_beta:warm_beach": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:warm_beach"
+          "biome": "modern_beta:warm_beach"
         }
       }
     },
-    "minecraft:warm_ocean": {
+    "modern_beta:warm_ocean": {
       "trigger": "minecraft:location",
       "conditions": {
         "location": {
-          "biome": "minecraft:warm_ocean"
+          "biome": "modern_beta:warm_ocean"
         }
       }
     }
   },
   "requirements": [
     [
-      "minecraft:badlands"
+      "modern_beta:badlands"
     ],
     [
-      "minecraft:badlands_plateau"
+      "modern_beta:badlands_plateau"
     ],
     [
-      "minecraft:bamboo_jungle"
+      "modern_beta:bamboo_jungle"
     ],
     [
-      "minecraft:beach"
+      "modern_beta:beach"
     ],
     [
-      "minecraft:birch_forest"
+      "modern_beta:birch_forest"
     ],
     [
-      "minecraft:cold_beach"
+      "modern_beta:cold_beach"
     ],
     [
-      "minecraft:cold_ocean"
+      "modern_beta:cold_ocean"
     ],
     [
-      "minecraft:cold_river"
+      "modern_beta:cold_river"
     ],
     [
-      "minecraft:dark_forest"
+      "modern_beta:dark_forest"
     ],
     [
-      "minecraft:deep_cold_ocean"
+      "modern_beta:deep_cold_ocean"
     ],
     [
-      "minecraft:deep_frozen_ocean"
+      "modern_beta:deep_frozen_ocean"
     ],
     [
-      "minecraft:deep_lukewarm_ocean"
+      "modern_beta:deep_lukewarm_ocean"
     ],
     [
-      "minecraft:deep_ocean"
+      "modern_beta:deep_ocean"
     ],
     [
-      "minecraft:deep_warm_ocean"
+      "modern_beta:deep_warm_ocean"
     ],
     [
-      "minecraft:desert"
+      "modern_beta:desert"
     ],
     [
-      "minecraft:desert_river"
+      "modern_beta:desert_river"
     ],
     [
-      "minecraft:flower_forest"
+      "modern_beta:flower_forest"
     ],
     [
-      "minecraft:forest"
+      "modern_beta:forest"
     ],
     [
-      "minecraft:frozen_ocean"
+      "modern_beta:frozen_ocean"
     ],
     [
-      "minecraft:frozen_river"
+      "modern_beta:frozen_river"
     ],
     [
-      "minecraft:giant_spruce_taiga"
+      "modern_beta:giant_spruce_taiga"
     ],
     [
-      "minecraft:giant_tree_taiga"
+      "modern_beta:giant_tree_taiga"
     ],
     [
-      "minecraft:jungle"
+      "modern_beta:jungle"
     ],
     [
-      "minecraft:lukewarm_beach"
+      "modern_beta:lukewarm_beach"
     ],
     [
-      "minecraft:lukewarm_ocean"
+      "modern_beta:lukewarm_ocean"
     ],
     [
-      "minecraft:lukewarm_river"
+      "modern_beta:lukewarm_river"
     ],
     [
-      "minecraft:marsh"
+      "modern_beta:marsh"
     ],
     [
-      "minecraft:mushroom_fields"
+      "modern_beta:mushroom_fields"
     ],
     [
-      "minecraft:ocean"
+      "modern_beta:ocean"
     ],
     [
-      "minecraft:plains"
+      "modern_beta:plains"
     ],
     [
-      "minecraft:rainforest"
+      "modern_beta:rainforest"
     ],
     [
-      "minecraft:river"
+      "modern_beta:river"
     ],
     [
-      "minecraft:savanna"
+      "modern_beta:savanna"
     ],
     [
-      "minecraft:savanna_grassland"
+      "modern_beta:savanna_grassland"
     ],
     [
-      "minecraft:seasonal_forest"
+      "modern_beta:seasonal_forest"
     ],
     [
-      "minecraft:shrubland"
+      "modern_beta:shrubland"
     ],
     [
-      "minecraft:snowy_beach"
+      "modern_beta:snowy_beach"
     ],
     [
-      "minecraft:snowy_taiga"
+      "modern_beta:snowy_taiga"
     ],
     [
-      "minecraft:snowy_tundra"
+      "modern_beta:snowy_tundra"
     ],
     [
-      "minecraft:swamp"
+      "modern_beta:swamp"
     ],
     [
-      "minecraft:taiga"
+      "modern_beta:taiga"
     ],
     [
-      "minecraft:warm_beach"
+      "modern_beta:warm_beach"
     ],
     [
-      "minecraft:warm_ocean"
+      "modern_beta:warm_ocean"
     ]
   ]
 }
